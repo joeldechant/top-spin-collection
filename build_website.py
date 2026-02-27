@@ -248,6 +248,7 @@ def main():
       -webkit-box-orient: vertical;
       overflow: hidden;
       min-height: 2.8em;
+      -webkit-box-pack: center;
     }}
 
     .num {{
