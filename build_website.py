@@ -65,7 +65,7 @@ def main():
               <td class="num rating-col">{rating}</td>
               <td class="num have-col">{have}</td>
               <td class="num want-col">{want}</td>
-              <td class="num stat">{pr}</td>
+              <td class="num">{pr}</td>
             </tr>""")
             genre_rank += 1
 
@@ -81,7 +81,7 @@ def main():
               <th class="num rating-col">Rating</th>
               <th class="num have-col">Have</th>
               <th class="num want-col">Want</th>
-              <th class="num stat">Power<br>Rank</th>
+              <th class="num">Power<br>Rank</th>
             </tr>
           </thead>
           <tbody>
@@ -257,15 +257,7 @@ def main():
       white-space: nowrap;
     }}
 
-    .stat {{
-      font-weight: 900;
-      font-size: 1.25em;
-      letter-spacing: -0.5px;
-      text-align: center;
-    }}
-
-    thead th.num,
-    thead th.stat {{
+    thead th.num {{
       text-align: center;
     }}
 
@@ -323,8 +315,6 @@ def main():
       .artist {{ max-width: 80px; }}
       .album {{ max-width: 90px; }}
       .rank {{ width: 18px; }}
-
-      .stat {{ font-size: 1.3em; }}
     }}
 
     @media (max-width: 380px) {{
