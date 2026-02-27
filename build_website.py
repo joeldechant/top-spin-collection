@@ -81,7 +81,7 @@ def main():
               <th class="num rating-col">Rating</th>
               <th class="num have-col">Have</th>
               <th class="num want-col">Want</th>
-              <th class="num stat">Power Rank</th>
+              <th class="num stat">Power<br>Rank</th>
             </tr>
           </thead>
           <tbody>
@@ -318,11 +318,11 @@ def main():
       table {{ font-size: 0.65em; }}
       td, thead th {{ padding: 2px 3px; }}
 
-      .artist {{ max-width: 70px; }}
-      .album {{ max-width: 80px; }}
+      .artist {{ max-width: 80px; }}
+      .album {{ max-width: 90px; }}
       .rank {{ width: 18px; }}
 
-      .stat {{ font-size: 1em; }}
+      .stat {{ font-size: 1.15em; }}
     }}
 
     @media (max-width: 380px) {{
@@ -331,8 +331,8 @@ def main():
       table {{ font-size: 0.58em; }}
       td, thead th {{ padding: 2px 2px; }}
 
-      .artist {{ max-width: 58px; }}
-      .album {{ max-width: 65px; }}
+      .artist {{ max-width: 65px; }}
+      .album {{ max-width: 72px; }}
       .rank {{ width: 16px; }}
     }}
   </style>
