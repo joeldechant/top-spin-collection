@@ -224,7 +224,7 @@ def main():
 
     td {{
       padding: 3px 5px;
-      vertical-align: top;
+      vertical-align: middle;
     }}
 
     /* Column styles */
