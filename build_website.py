@@ -60,7 +60,7 @@ def main():
 
             rows_html.append(f"""            <tr>
               <td class="rank">{genre_rank}</td>
-              <td class="artist"><div class="clamp">{artist_escaped}</div></td>
+              <td class="artist"><div class="clamp"><span>{artist_escaped}</span></div></td>
               <td class="album"><div class="clamp">{title_cell}</div></td>
               <td class="num rating-col">{rating}</td>
               <td class="num have-col">{have}</td>
