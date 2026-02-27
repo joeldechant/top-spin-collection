@@ -257,7 +257,7 @@ def main():
 
     .stat {{
       font-weight: 900;
-      font-size: 1.1em;
+      font-size: 1.25em;
       letter-spacing: -0.5px;
       text-align: center;
     }}
@@ -322,7 +322,7 @@ def main():
       .album {{ max-width: 90px; }}
       .rank {{ width: 18px; }}
 
-      .stat {{ font-size: 1.15em; }}
+      .stat {{ font-size: 1.3em; }}
     }}
 
     @media (max-width: 380px) {{
