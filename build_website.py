@@ -60,8 +60,8 @@ def main():
 
             rows_html.append(f"""            <tr>
               <td class="rank">{genre_rank}</td>
-              <td class="artist"><div class="clamp"><span>{artist_escaped}</span></div></td>
-              <td class="album"><div class="clamp">{title_cell}</div></td>
+              <td class="artist"><div class="clamp-wrap"><div class="clamp"><span>{artist_escaped}</span></div></div></td>
+              <td class="album"><div class="clamp-wrap"><div class="clamp">{title_cell}</div></div></td>
               <td class="num rating-col">{rating}</td>
               <td class="num have-col">{have}</td>
               <td class="num want-col">{want}</td>
@@ -242,13 +242,17 @@ def main():
       max-width: 130px;
     }}
 
+    .clamp-wrap {{
+      display: flex;
+      align-items: center;
+      min-height: 2.8em;
+    }}
+
     .clamp {{
       display: -webkit-box;
       -webkit-line-clamp: 2;
       -webkit-box-orient: vertical;
       overflow: hidden;
-      min-height: 2.8em;
-      -webkit-box-pack: center;
     }}
 
     .num {{
