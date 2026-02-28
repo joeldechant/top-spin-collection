@@ -1,12 +1,12 @@
 {
-  "generated": "2026-02-27T12:29:17.723391",
+  "generated": "2026-02-28T15:38:57.706168",
   "snapshot": "2/26",
-  "total_unique": 662,
-  "total_entries": 664,
+  "total_unique": 810,
+  "total_entries": 813,
   "genres": [
     {
       "name": "African",
-      "count": 36,
+      "count": 47,
       "releases": [
         {
           "artist": "Zotobres",
@@ -29,6 +29,26 @@
           "sub_genre": "African"
         },
         {
+          "artist": "Oliver Mutukudzi",
+          "title": "Ndipeiwo Zano",
+          "rating": 4.71,
+          "have": 8,
+          "want": 140,
+          "power_rank": 82.425,
+          "link": "https://www.discogs.com/release/9771801-Oliver-Mutukudzi-The-Black-Spirits-Ndipeiwo-Zano",
+          "sub_genre": "African"
+        },
+        {
+          "artist": "Marehemu George Mukabi",
+          "title": "Sengula Nakupenda",
+          "rating": 5.0,
+          "have": 17,
+          "want": 255,
+          "power_rank": 75.0,
+          "link": "https://www.discogs.com/release/3728169-Marehemu-George-Mukabi-Sengula-Nakupenda",
+          "sub_genre": "African"
+        },
+        {
           "artist": "Rail Band",
           "title": "Rail Band",
           "rating": 4.88,
@@ -37,6 +57,16 @@
           "power_rank": 64.10169491525423,
           "link": "https://www.discogs.com/release/2085526-Rail-Band-Rail-Band",
           "sub_genre": "African"
+        },
+        {
+          "artist": "Edmony Krater",
+          "title": "Tijan Pou Velo",
+          "rating": 4.8,
+          "have": 74,
+          "want": 948,
+          "power_rank": 61.49189189189189,
+          "link": "https://www.discogs.com/release/5922994-Edmony-Krater-Et-Zepiss-Tijan-Pou-Velo",
+          "sub_genre": "Island"
         },
         {
           "artist": "Akofa Akoussah",
@@ -159,6 +189,16 @@
           "sub_genre": "African"
         },
         {
+          "artist": "Gwakasonne",
+          "title": "Temwen",
+          "rating": 4.6,
+          "have": 67,
+          "want": 507,
+          "power_rank": 34.808955223880595,
+          "link": "https://www.discogs.com/release/6099354-Gwakasonne-T%C3%A9mwen",
+          "sub_genre": "Gwo Ka"
+        },
+        {
           "artist": "Super Mama Djombo",
           "title": "Mandjuana",
           "rating": 4.96,
@@ -176,6 +216,26 @@
           "want": 164,
           "power_rank": 30.276923076923076,
           "link": "https://www.discogs.com/release/3338045-Orchestre-Super-Mand%C3%A9-Vol-1-Wahabiadachi",
+          "sub_genre": "African"
+        },
+        {
+          "artist": "Super Djata",
+          "title": "Vol 2",
+          "rating": 4.77,
+          "have": 56,
+          "want": 347,
+          "power_rank": 29.556964285714283,
+          "link": "https://www.discogs.com/release/1865922-Super-Djata-De-Bamako-Vol-2",
+          "sub_genre": "African"
+        },
+        {
+          "artist": "Gaoule Mizik",
+          "title": "Konboch",
+          "rating": 4.8,
+          "have": 143,
+          "want": 873,
+          "power_rank": 29.303496503496504,
+          "link": "https://www.discogs.com/release/2783397-Gaoul%C3%A9-Mizik-Konb%C3%B2ch",
           "sub_genre": "African"
         },
         {
@@ -229,6 +289,26 @@
           "sub_genre": "African"
         },
         {
+          "artist": "Avolonto Honore",
+          "title": "Vicky Eskill",
+          "rating": 4.89,
+          "have": 47,
+          "want": 260,
+          "power_rank": 27.051063829787235,
+          "link": "https://www.discogs.com/release/6720038-Avolonto-Honore-Avolonto-Honore-Avec-La-Participation-Vocale-De-Vicky-Eskill-Miguel-Guenshi-Ever",
+          "sub_genre": "African"
+        },
+        {
+          "artist": "Gwakasonne",
+          "title": "Moun",
+          "rating": 4.74,
+          "have": 98,
+          "want": 535,
+          "power_rank": 25.876530612244903,
+          "link": "https://www.discogs.com/release/3384446-Gwakasonn%C3%A9-Moun",
+          "sub_genre": "Gwo Ka"
+        },
+        {
           "artist": "Super Tentemba Jazz",
           "title": "Reconciliation",
           "rating": 4.55,
@@ -246,6 +326,16 @@
           "want": 331,
           "power_rank": 24.77484848484849,
           "link": "https://www.discogs.com/release/7720930-Super-Mama-Djombo-Sol-Maior-Para-Comandante",
+          "sub_genre": "African"
+        },
+        {
+          "artist": "Orchestre Baobab",
+          "title": "Guy Gu Rey Gi",
+          "rating": 4.5,
+          "have": 111,
+          "want": 566,
+          "power_rank": 22.945945945945947,
+          "link": "https://www.discogs.com/release/3975088-Orchestre-Du-Bawobab-Guy-Gu-Rey-Gi",
           "sub_genre": "African"
         },
         {
@@ -276,6 +366,16 @@
           "want": 301,
           "power_rank": 21.711475409836066,
           "link": "https://www.discogs.com/release/6886818-Super-Djata-Band-De-Bamako-Authentique-80",
+          "sub_genre": "African"
+        },
+        {
+          "artist": "Super Djata",
+          "title": "Vol 1",
+          "rating": 4.81,
+          "have": 88,
+          "want": 388,
+          "power_rank": 21.207727272727272,
+          "link": "https://www.discogs.com/release/1865930-Le-Super-Djata-Band-Du-Mali-En-Super-Forme-Vol-1",
           "sub_genre": "African"
         },
         {
@@ -329,6 +429,16 @@
           "sub_genre": "African"
         },
         {
+          "artist": "Rail Band",
+          "title": "Orchestre du Buffet",
+          "rating": 4.8,
+          "have": 85,
+          "want": 283,
+          "power_rank": 15.981176470588235,
+          "link": "https://www.discogs.com/release/1620357-Super-Rail-Band-Orchestre-Du-Buffet-H%C3%B4tel-De-La-Gare-De-Bamako",
+          "sub_genre": "African"
+        },
+        {
           "artist": "Le Sahel",
           "title": "Star Band Vol 6",
           "rating": 4.82,
@@ -372,7 +482,7 @@
     },
     {
       "name": "Highlife",
-      "count": 34,
+      "count": 40,
       "releases": [
         {
           "artist": "Ebo Taylor",
@@ -475,6 +585,16 @@
           "sub_genre": "Highlife"
         },
         {
+          "artist": "Bouasi International",
+          "title": "Rivers of Babylon",
+          "rating": 5.0,
+          "have": 6,
+          "want": 54,
+          "power_rank": 45.0,
+          "link": "https://www.discogs.com/release/8187964-Bouasi-International-Rivers-Of-Babylon",
+          "sub_genre": "Highlife"
+        },
+        {
           "artist": "Massako",
           "title": "En Verve",
           "rating": 4.88,
@@ -502,6 +622,16 @@
           "want": 87,
           "power_rank": 43.5,
           "link": "https://www.discogs.com/release/2879769-Jackmo-WAI",
+          "sub_genre": "Highlife"
+        },
+        {
+          "artist": "Pat Thomas & Ebo Taylor",
+          "title": "Uhuru Special",
+          "rating": 4.44,
+          "have": 36,
+          "want": 352,
+          "power_rank": 43.41333333333334,
+          "link": "https://www.discogs.com/release/4077088-Ebo-Taylor-Pat-Thomas-3-Uhuru-Yenzu-Hitsville-Re-Visited",
           "sub_genre": "Highlife"
         },
         {
@@ -562,6 +692,36 @@
           "want": 244,
           "power_rank": 35.416969696969694,
           "link": "https://www.discogs.com/release/3179465-Singer-Nahounou-Orchestre-International-Sympathic-De-Porto-Novo-Benin-Singer-Nahounou-Vol-3",
+          "sub_genre": "Highlife"
+        },
+        {
+          "artist": "France Val",
+          "title": "Sango",
+          "rating": 4.86,
+          "have": 12,
+          "want": 86,
+          "power_rank": 34.830000000000005,
+          "link": "https://www.discogs.com/release/8917874-France-Val-Sango",
+          "sub_genre": "Highlife"
+        },
+        {
+          "artist": "Super Mazembe",
+          "title": "Mwana Mazembe",
+          "rating": 5.0,
+          "have": 17,
+          "want": 118,
+          "power_rank": 34.705882352941174,
+          "link": "https://www.discogs.com/release/7015187-Orch-Super-Mazembe-Mwana-Mazembe",
+          "sub_genre": "Highlife"
+        },
+        {
+          "artist": "Bazare Pablo",
+          "title": "Vol 1",
+          "rating": 4.75,
+          "have": 24,
+          "want": 168,
+          "power_rank": 33.25,
+          "link": "https://www.discogs.com/release/6301291-Bazar%C3%A9-D-Pablo-1er-et-le-Nassima-Orchestra-Vol-1",
           "sub_genre": "Highlife"
         },
         {
@@ -632,6 +792,16 @@
           "want": 331,
           "power_rank": 19.61175,
           "link": "https://www.discogs.com/release/2109685-Ma%C3%AEtre-Gazonga-LInternational-Challal-Les-Jaloux-Saboteurs",
+          "sub_genre": "Highlife"
+        },
+        {
+          "artist": "Avohou Pierre",
+          "title": "L'Orchestre Black Santiago",
+          "rating": 4.86,
+          "have": 27,
+          "want": 107,
+          "power_rank": 19.26,
+          "link": "https://www.discogs.com/release/3133195-Avohou-Pierre-Et-LOrchestre-Black-Santiago-Avohou-Pierre-Et-LOrchestre-Black-Santiago",
           "sub_genre": "Highlife"
         },
         {
@@ -718,7 +888,7 @@
     },
     {
       "name": "Afro Funk",
-      "count": 36,
+      "count": 55,
       "releases": [
         {
           "artist": "Gboyega Adelaja",
@@ -799,6 +969,26 @@
           "power_rank": 108.91636363636363,
           "link": "https://www.discogs.com/release/3136010-Peter-Abdul-Get-Down-With-Me",
           "sub_genre": "Boogie"
+        },
+        {
+          "artist": "Pasteur Lappe",
+          "title": "Na Man Pass Man",
+          "rating": 4.74,
+          "have": 78,
+          "want": 1777,
+          "power_rank": 107.98692307692308,
+          "link": "https://www.discogs.com/release/3301343-Pasteur-Lappe-Na-Man-Pass-Man",
+          "sub_genre": "Afro Funk"
+        },
+        {
+          "artist": "Starlight",
+          "title": "Starlight",
+          "rating": 4.63,
+          "have": 32,
+          "want": 681,
+          "power_rank": 98.53218749999999,
+          "link": "https://www.discogs.com/release/5923441-Starlight-Starlight",
+          "sub_genre": "Afro Funk"
         },
         {
           "artist": "Lekan Oke",
@@ -901,6 +1091,16 @@
           "sub_genre": "Afro Funk"
         },
         {
+          "artist": "V.O.",
+          "title": "Mashisa",
+          "rating": 4.84,
+          "have": 103,
+          "want": 1622,
+          "power_rank": 76.21825242718447,
+          "link": "https://www.discogs.com/release/5938706-VO-Mashisa",
+          "sub_genre": "Boogie"
+        },
+        {
           "artist": "Tirogo",
           "title": "Aiye People",
           "rating": 4.69,
@@ -941,6 +1141,16 @@
           "sub_genre": "Boogie"
         },
         {
+          "artist": "Kiki Gyan",
+          "title": "Keep On Dancing",
+          "rating": 4.96,
+          "have": 64,
+          "want": 852,
+          "power_rank": 66.03,
+          "link": "https://www.discogs.com/release/2582354-Kiki-Keep-On-Dancing-24-Hours-In-A-Disco",
+          "sub_genre": "Afro Funk"
+        },
+        {
           "artist": "Mixed Grill",
           "title": "Cry for Peace and Love",
           "rating": 4.71,
@@ -948,6 +1158,16 @@
           "want": 964,
           "power_rank": 65.80347826086957,
           "link": "https://www.discogs.com/release/1534612-Mixed-Grill-Cry-For-Peace-And-Love",
+          "sub_genre": "Afro Funk"
+        },
+        {
+          "artist": "Pasteur Lappe",
+          "title": "We, The People",
+          "rating": 4.69,
+          "have": 70,
+          "want": 979,
+          "power_rank": 65.593,
+          "link": "https://www.discogs.com/release/3481384-Pasteur-Lapp%C3%A9-WePeople",
           "sub_genre": "Afro Funk"
         },
         {
@@ -1001,6 +1221,26 @@
           "sub_genre": "Afro Funk"
         },
         {
+          "artist": "Nkotti Francois",
+          "title": "Nja Ka",
+          "rating": 4.73,
+          "have": 12,
+          "want": 147,
+          "power_rank": 57.9425,
+          "link": "https://www.discogs.com/release/8195049-Nkotti-Fran%C3%A7ois-Les-Black-Styl-Retro-2000",
+          "sub_genre": "Afro Funk"
+        },
+        {
+          "artist": "Fire Flight",
+          "title": "Exit",
+          "rating": 4.8,
+          "have": 97,
+          "want": 1157,
+          "power_rank": 57.25360824742268,
+          "link": "https://www.discogs.com/release/3095530-Fire-Flight-Exit",
+          "sub_genre": "Boogie"
+        },
+        {
           "artist": "Jo Tongo",
           "title": "Those Flowers",
           "rating": 4.94,
@@ -1031,6 +1271,36 @@
           "sub_genre": "Afro Funk"
         },
         {
+          "artist": "Ricky",
+          "title": "Sik Joe Skien",
+          "rating": 4.82,
+          "have": 22,
+          "want": 242,
+          "power_rank": 53.02,
+          "link": "https://www.discogs.com/release/2602429-Ricky-Sik-Joe-Skien",
+          "sub_genre": "Afro Funk"
+        },
+        {
+          "artist": "Paradise Stars",
+          "title": "Don't Forget",
+          "rating": 4.81,
+          "have": 41,
+          "want": 448,
+          "power_rank": 52.5580487804878,
+          "link": "https://www.discogs.com/release/3943262-Paradise-Stars-Dont-Forget",
+          "sub_genre": "Boogie"
+        },
+        {
+          "artist": "Patrick Nuissier",
+          "title": "Patrick Nuissier",
+          "rating": 4.84,
+          "have": 47,
+          "want": 510,
+          "power_rank": 52.51914893617021,
+          "link": "https://www.discogs.com/release/6733785-Patrick-Nuissier-Patrick-Nuissier",
+          "sub_genre": "Afro Funk"
+        },
+        {
           "artist": "Ofege",
           "title": "How Do You Feel",
           "rating": 4.92,
@@ -1039,6 +1309,26 @@
           "power_rank": 51.52075471698113,
           "link": "https://www.discogs.com/release/2186160-Ofege-How-Do-You-Feel",
           "sub_genre": "Afro Funk"
+        },
+        {
+          "artist": "Akin Nathan",
+          "title": "Everlasting Joy",
+          "rating": 4.7,
+          "have": 23,
+          "want": 249,
+          "power_rank": 50.88260869565217,
+          "link": "https://www.discogs.com/release/4992973-Akin-Nathan-And-The-Jubilees-Vol-1-Everlasting-Joy",
+          "sub_genre": "Afro Funk"
+        },
+        {
+          "artist": "Mams & Hart",
+          "title": "Gotta Give It Up",
+          "rating": 4.9,
+          "have": 31,
+          "want": 289,
+          "power_rank": 45.68064516129032,
+          "link": "https://www.discogs.com/release/1689867-Mams-Hart-Gotta-Give-It-Up",
+          "sub_genre": "Boogie"
         },
         {
           "artist": "Moise Doumbe",
@@ -1061,6 +1351,16 @@
           "sub_genre": "Boogie"
         },
         {
+          "artist": "William & The Young Five",
+          "title": "Cost of Living Is Too High",
+          "rating": 4.91,
+          "have": 45,
+          "want": 392,
+          "power_rank": 42.77155555555555,
+          "link": "https://www.discogs.com/release/4356428-William-The-Young-Five-Cost-Of-Living-Is-Too-High-",
+          "sub_genre": "Boogie"
+        },
+        {
           "artist": "Esa",
           "title": "Esa",
           "rating": 4.91,
@@ -1068,6 +1368,46 @@
           "want": 933,
           "power_rank": 41.270540540540544,
           "link": "https://www.discogs.com/release/1799504-Esa-Esa",
+          "sub_genre": "Afro Funk"
+        },
+        {
+          "artist": "Jules Kamga",
+          "title": "Africa Gounyok",
+          "rating": 4.77,
+          "have": 37,
+          "want": 318,
+          "power_rank": 40.99621621621621,
+          "link": "https://www.discogs.com/release/6406853-Jules-Kamga-Africa-Gounyok",
+          "sub_genre": "Afro Funk"
+        },
+        {
+          "artist": "Bel Batista",
+          "title": "Disco-Mous'so",
+          "rating": 4.94,
+          "have": 46,
+          "want": 378,
+          "power_rank": 40.59391304347827,
+          "link": "https://www.discogs.com/release/5351194-Bel-Batista-Disco-Mousso",
+          "sub_genre": "Afro Funk"
+        },
+        {
+          "artist": "Joni Haastrup",
+          "title": "Wake Up Your Mind",
+          "rating": 4.78,
+          "have": 195,
+          "want": 1612,
+          "power_rank": 39.51466666666667,
+          "link": "https://www.discogs.com/release/1538662-Joni-Haastrup-Wake-Up-Your-Mind",
+          "sub_genre": "Afro Funk"
+        },
+        {
+          "artist": "Janet Lokamba",
+          "title": "Aimey",
+          "rating": 4.82,
+          "have": 57,
+          "want": 450,
+          "power_rank": 38.05263157894737,
+          "link": "https://www.discogs.com/release/3536943-Janet-NDiaye-Lokamba-Aimey",
           "sub_genre": "Afro Funk"
         },
         {
@@ -1079,12 +1419,32 @@
           "power_rank": 25.665,
           "link": "https://www.discogs.com/release/4585270-Soundstream-Come-To-The-Ghetto",
           "sub_genre": "Boogie"
+        },
+        {
+          "artist": "Fotso Simo",
+          "title": "Dance Agogo",
+          "rating": 4.87,
+          "have": 49,
+          "want": 220,
+          "power_rank": 21.865306122448978,
+          "link": "https://www.discogs.com/release/1738052-Fotso-Simo-And-His-Agogo-Movement-Dance-Agogo-Part-One",
+          "sub_genre": "Afro Funk"
+        },
+        {
+          "artist": "Harari",
+          "title": "Manana",
+          "rating": 4.69,
+          "have": 76,
+          "want": 339,
+          "power_rank": 20.919868421052634,
+          "link": "https://www.discogs.com/release/2340562-Harari-Manana",
+          "sub_genre": "Afro Funk"
         }
       ]
     },
     {
       "name": "Afro Psych",
-      "count": 35,
+      "count": 36,
       "releases": [
         {
           "artist": "T-Fire",
@@ -1377,6 +1737,16 @@
           "sub_genre": "Afro Psych"
         },
         {
+          "artist": "Musi Tunya",
+          "title": "Wings of Africa",
+          "rating": 4.5,
+          "have": 89,
+          "want": 680,
+          "power_rank": 34.38202247191011,
+          "link": "https://www.discogs.com/release/1250644-Musi-O-Tunya-Wings-Of-Africa",
+          "sub_genre": "Afro Psych"
+        },
+        {
           "artist": "Baobab Gouye Gui",
           "title": "Mouhamadou Bamba",
           "rating": 4.97,
@@ -1440,7 +1810,7 @@
     },
     {
       "name": "Afrobeat",
-      "count": 38,
+      "count": 41,
       "releases": [
         {
           "artist": "Mad Man Jaga",
@@ -1713,6 +2083,16 @@
           "sub_genre": "Afrobeat"
         },
         {
+          "artist": "Pepper Onion Ginger Salt",
+          "title": "Bubaushie",
+          "rating": 4.84,
+          "have": 41,
+          "want": 389,
+          "power_rank": 45.9209756097561,
+          "link": "https://www.discogs.com/release/7776158-Pepper-Onion-Ginger-Salt-Bubuashie",
+          "sub_genre": "Afrobeat"
+        },
+        {
           "artist": "Demos Deniran",
           "title": "God is Everlasting",
           "rating": 4.6,
@@ -1733,6 +2113,16 @@
           "sub_genre": "Afrobeat"
         },
         {
+          "artist": "K. Frimpong",
+          "title": "Abrabo",
+          "rating": 4.68,
+          "have": 68,
+          "want": 633,
+          "power_rank": 43.565294117647056,
+          "link": "https://www.discogs.com/release/6903937-Alhaji-K-Frimpong-Abrabo",
+          "sub_genre": "Afrobeat"
+        },
+        {
           "artist": "Obeede Express",
           "title": "Obeten Kokuroko",
           "rating": 5.0,
@@ -1740,6 +2130,16 @@
           "want": 59,
           "power_rank": 42.142857142857146,
           "link": "https://www.discogs.com/release/7917419-Obeede-Express-Obeten-Kokuroko",
+          "sub_genre": "Afrobeat"
+        },
+        {
+          "artist": "Gyedu Blay Ambolley",
+          "title": "Control",
+          "rating": 4.77,
+          "have": 40,
+          "want": 343,
+          "power_rank": 40.90274999999999,
+          "link": "https://www.discogs.com/release/6507371-Gyedu-Blay-Ambolley-And-Zantoda-Mark-III-Control",
           "sub_genre": "Afrobeat"
         },
         {
@@ -1826,7 +2226,7 @@
     },
     {
       "name": "Brazil",
-      "count": 19,
+      "count": 24,
       "releases": [
         {
           "artist": "Minas",
@@ -1869,6 +2269,16 @@
           "sub_genre": "Brazil"
         },
         {
+          "artist": "Christina Camargo",
+          "title": "Cristina Camargo",
+          "rating": 4.79,
+          "have": 169,
+          "want": 1599,
+          "power_rank": 45.32076923076923,
+          "link": "https://www.discogs.com/release/2856890-Cristina-Camargo-Cristina-Camargo",
+          "sub_genre": "Brazil"
+        },
+        {
           "artist": "Rubinho E Mauro",
           "title": "Perfeitamente",
           "rating": 4.94,
@@ -1889,6 +2299,16 @@
           "sub_genre": "Brazil"
         },
         {
+          "artist": "Ana Mazzotti",
+          "title": "Ninguem Vai Me Segurar",
+          "rating": 4.71,
+          "have": 210,
+          "want": 1834,
+          "power_rank": 41.13399999999999,
+          "link": "https://www.discogs.com/release/2317796-Ana-Mazzotti-Ninguem-Vai-Me-Segurar",
+          "sub_genre": "Brazil"
+        },
+        {
           "artist": "Azimuth",
           "title": "Azymuth",
           "rating": 4.8,
@@ -1899,6 +2319,16 @@
           "sub_genre": "Brazil"
         },
         {
+          "artist": "Samjazz",
+          "title": "Samjazz",
+          "rating": 4.87,
+          "have": 44,
+          "want": 293,
+          "power_rank": 32.42977272727273,
+          "link": "https://www.discogs.com/release/3244991-Samjazz-Samjazz",
+          "sub_genre": "Brazil"
+        },
+        {
           "artist": "Jaime & Nair",
           "title": "Jaime & Nair",
           "rating": 4.88,
@@ -1906,6 +2336,16 @@
           "want": 749,
           "power_rank": 31.24034188034188,
           "link": "https://www.discogs.com/release/3276638-Jaime-Nair-Jaime-Nair",
+          "sub_genre": "Brazil"
+        },
+        {
+          "artist": "Taxi",
+          "title": "Taxi",
+          "rating": 4.74,
+          "have": 97,
+          "want": 632,
+          "power_rank": 30.883298969072165,
+          "link": "https://www.discogs.com/release/5587191-Taxi-Taxi",
           "sub_genre": "Brazil"
         },
         {
@@ -1999,6 +2439,16 @@
           "sub_genre": "Brazil"
         },
         {
+          "artist": "Paulo Diniz",
+          "title": "Paulo Diniz",
+          "rating": 4.89,
+          "have": 151,
+          "want": 524,
+          "power_rank": 16.969271523178808,
+          "link": "https://www.discogs.com/release/4275856-Paulo-Diniz-Paulo-Diniz",
+          "sub_genre": "Brazil"
+        },
+        {
           "artist": "Dominguinhos",
           "title": "Domingo, Menino Dominguinhos",
           "rating": 4.86,
@@ -2022,7 +2472,7 @@
     },
     {
       "name": "Folk",
-      "count": 14,
+      "count": 17,
       "releases": [
         {
           "artist": "John Villemonte",
@@ -2052,6 +2502,16 @@
           "want": 391,
           "power_rank": 62.559999999999995,
           "link": "https://www.discogs.com/release/8382593-Mazzy-Star-She-Hangs-Brightly",
+          "sub_genre": "Folk"
+        },
+        {
+          "artist": "Nick Drake",
+          "title": "Pink Moon Spain",
+          "rating": 4.82,
+          "have": 148,
+          "want": 1319,
+          "power_rank": 42.95662162162162,
+          "link": "https://www.discogs.com/release/3955830-Nick-Drake-Pink-Moon",
           "sub_genre": "Folk"
         },
         {
@@ -2105,6 +2565,16 @@
           "sub_genre": "Folk"
         },
         {
+          "artist": "Kathy Smith",
+          "title": "2",
+          "rating": 4.73,
+          "have": 179,
+          "want": 966,
+          "power_rank": 25.52614525139665,
+          "link": "https://www.discogs.com/release/3725025-Kathy-Smith-2",
+          "sub_genre": "Folk"
+        },
+        {
           "artist": "Moonstone",
           "title": "Moonstone",
           "rating": 4.47,
@@ -2132,6 +2602,16 @@
           "want": 634,
           "power_rank": 17.372602739726027,
           "link": "https://www.discogs.com/release/1356775-Nick-Drake-Pink-Moon",
+          "sub_genre": "Folk"
+        },
+        {
+          "artist": "Mazzy Star",
+          "title": "Among My Swan UK",
+          "rating": 4.61,
+          "have": 480,
+          "want": 1467,
+          "power_rank": 14.0893125,
+          "link": "https://www.discogs.com/release/3857086-Mazzy-Star-Among-My-Swan",
           "sub_genre": "Folk"
         },
         {
@@ -2168,7 +2648,7 @@
     },
     {
       "name": "Funk",
-      "count": 50,
+      "count": 60,
       "releases": [
         {
           "artist": "Popcorn",
@@ -2258,6 +2738,26 @@
           "want": 1417,
           "power_rank": 87.12635135135135,
           "link": "https://www.discogs.com/release/2965109-1619-Bad-Ass-Band-1619-Bad-Ass-Band",
+          "sub_genre": "Funk"
+        },
+        {
+          "artist": "Group Titan",
+          "title": "Anatolian Break Dance",
+          "rating": 4.82,
+          "have": 22,
+          "want": 356,
+          "power_rank": 77.99636363636365,
+          "link": "https://www.discogs.com/release/3804260-Group-Titan-Anatolian-Break-Dance",
+          "sub_genre": "Funk"
+        },
+        {
+          "artist": "Margino",
+          "title": "Happy People",
+          "rating": 4.73,
+          "have": 69,
+          "want": 1061,
+          "power_rank": 72.73231884057972,
+          "link": "https://www.discogs.com/release/5279960-Margino-Happy-People",
           "sub_genre": "Funk"
         },
         {
@@ -2421,6 +2921,16 @@
           "sub_genre": "Funk"
         },
         {
+          "artist": "Jam Tribe",
+          "title": "Ma Fisto",
+          "rating": 5.0,
+          "have": 35,
+          "want": 389,
+          "power_rank": 55.57142857142857,
+          "link": "https://www.discogs.com/release/9008933-Jam-Tribe-Ma-Fisto",
+          "sub_genre": "Funk"
+        },
+        {
           "artist": "Lewis Conection",
           "title": "Lewis Conection",
           "rating": 4.92,
@@ -2571,6 +3081,16 @@
           "sub_genre": "Funk"
         },
         {
+          "artist": "Merchant",
+          "title": "Merchant's Pilgrimage",
+          "rating": 4.96,
+          "have": 156,
+          "want": 1187,
+          "power_rank": 37.74051282051282,
+          "link": "https://www.discogs.com/release/3557141-Merchant-Merchants-Pilgrimage",
+          "sub_genre": "Funk"
+        },
+        {
           "artist": "Genius",
           "title": "Untitled",
           "rating": 4.88,
@@ -2588,6 +3108,16 @@
           "want": 845,
           "power_rank": 35.04036697247706,
           "link": "https://www.discogs.com/release/1373889-Dee-Nasty-Paname-City-Rappin",
+          "sub_genre": "Funk"
+        },
+        {
+          "artist": "Perfect Timin'",
+          "title": "On Time",
+          "rating": 4.17,
+          "have": 48,
+          "want": 392,
+          "power_rank": 34.055,
+          "link": "https://www.discogs.com/release/2667996-Perfect-Timin-On-Time",
           "sub_genre": "Funk"
         },
         {
@@ -2611,6 +3141,16 @@
           "sub_genre": "Funk"
         },
         {
+          "artist": "Nazan Soray",
+          "title": "Teselliye Sen Gerek",
+          "rating": 4.84,
+          "have": 62,
+          "want": 373,
+          "power_rank": 29.118064516129035,
+          "link": "https://www.discogs.com/release/3807889-Nazan-%C5%9Eoray-Teselliye-Sen-Gerek",
+          "sub_genre": "Funk"
+        },
+        {
           "artist": "Damn Sam",
           "title": "Damn Sam The Miracle Man",
           "rating": 4.76,
@@ -2618,6 +3158,16 @@
           "want": 1411,
           "power_rank": 26.973333333333333,
           "link": "https://www.discogs.com/release/1662310-Damn-Sam-The-Miracle-Man-And-The-Soul-Congregation-Damn-Sam-The-Miracle-Man-And-The-Soul-Congregatio",
+          "sub_genre": "Funk"
+        },
+        {
+          "artist": "Hot Chip",
+          "title": "Coming on Strong UK",
+          "rating": 4.86,
+          "have": 62,
+          "want": 327,
+          "power_rank": 25.632580645161294,
+          "link": "https://www.discogs.com/release/299189-Hot-Chip-Coming-On-Strong",
           "sub_genre": "Funk"
         },
         {
@@ -2661,6 +3211,26 @@
           "sub_genre": "Funk"
         },
         {
+          "artist": "Khemistry",
+          "title": "Khemistry",
+          "rating": 4.76,
+          "have": 633,
+          "want": 2053,
+          "power_rank": 15.438041074249606,
+          "link": "https://www.discogs.com/release/458363-Khemistry-Khemistry",
+          "sub_genre": "Funk"
+        },
+        {
+          "artist": "Rocket",
+          "title": "Rocket",
+          "rating": 4.74,
+          "have": 497,
+          "want": 1341,
+          "power_rank": 12.789416498993964,
+          "link": "https://www.discogs.com/release/942334-Rocket-Rocket",
+          "sub_genre": "Funk"
+        },
+        {
           "artist": "Sunbear",
           "title": "Sunbear",
           "rating": 4.65,
@@ -2669,12 +3239,22 @@
           "power_rank": 12.556908344733243,
           "link": "https://www.discogs.com/release/1066493-Sunbear-Sunbear",
           "sub_genre": "Funk"
+        },
+        {
+          "artist": "Various",
+          "title": "Party Time Disco Hits",
+          "rating": null,
+          "have": null,
+          "want": null,
+          "power_rank": null,
+          "link": "missing",
+          "sub_genre": "Funk"
         }
       ]
     },
     {
       "name": "Jazz",
-      "count": 164,
+      "count": 182,
       "releases": [
         {
           "artist": "Rhythm and Art",
@@ -3197,6 +3777,16 @@
           "sub_genre": "Jazz"
         },
         {
+          "artist": "Henry Franklin",
+          "title": "The Skipper Japan",
+          "rating": 4.83,
+          "have": 51,
+          "want": 403,
+          "power_rank": 38.1664705882353,
+          "link": "https://www.discogs.com/release/9701886-Henry-Franklin-The-Skipper",
+          "sub_genre": "Jazz"
+        },
+        {
           "artist": "Pyramids",
           "title": "King of Kings",
           "rating": 4.89,
@@ -3245,6 +3835,26 @@
           "power_rank": 37.1768115942029,
           "link": "https://www.discogs.com/release/4277219-Salvador-Trio-Salvador-Trio",
           "sub_genre": "Jazz"
+        },
+        {
+          "artist": "Erick Cosaque",
+          "title": "Jean La Line",
+          "rating": 4.77,
+          "have": 71,
+          "want": 551,
+          "power_rank": 37.01788732394366,
+          "link": "https://www.discogs.com/release/3530745-Erick-Cosaque-Et-Les-Voltages-8-Gros-Ka-LArme-De-D%C3%A9fense-Du-Peuple-Guadeloup%C3%A9en",
+          "sub_genre": "Afro Jazz"
+        },
+        {
+          "artist": "Projeto 3",
+          "title": "O Trio",
+          "rating": 5.0,
+          "have": 31,
+          "want": 229,
+          "power_rank": 36.935483870967744,
+          "link": "https://www.discogs.com/release/3965066-Projeto-III-O-Trio",
+          "sub_genre": "Bossa"
         },
         {
           "artist": "Noel Mc Ghie",
@@ -3317,6 +3927,16 @@
           "sub_genre": "Jazz"
         },
         {
+          "artist": "Os Gatos",
+          "title": "Os Gatos",
+          "rating": 4.75,
+          "have": 55,
+          "want": 382,
+          "power_rank": 32.99090909090909,
+          "link": "https://www.discogs.com/release/3530966-Os-Gatos-Os-Gatos",
+          "sub_genre": "Bossa"
+        },
+        {
           "artist": "Os Cobras",
           "title": "O LP",
           "rating": 4.96,
@@ -3387,6 +4007,16 @@
           "sub_genre": "Jazz"
         },
         {
+          "artist": "Modulo Quatro",
+          "title": "Bossa Carrossel Brasileiro",
+          "rating": 4.73,
+          "have": 34,
+          "want": 211,
+          "power_rank": 29.35382352941177,
+          "link": "https://www.discogs.com/release/4726668-M%C3%B3dulo-Quatro-Bossa-Carrossel-Brasileiro",
+          "sub_genre": "Bossa"
+        },
+        {
           "artist": "Kiyoshi Sugimoto Quintet",
           "title": "New Folks",
           "rating": 4.69,
@@ -3437,6 +4067,16 @@
           "sub_genre": "Jazz"
         },
         {
+          "artist": "Pumpkin",
+          "title": "Pumpkin",
+          "rating": 4.57,
+          "have": 103,
+          "want": 622,
+          "power_rank": 27.59747572815534,
+          "link": "https://www.discogs.com/release/2325323-Pumpkin-Pumpkin",
+          "sub_genre": "Jazz"
+        },
+        {
           "artist": "Dadisi Komolafe",
           "title": "Hassan's Walk",
           "rating": 4.79,
@@ -3444,6 +4084,26 @@
           "want": 1223,
           "power_rank": 27.247302325581398,
           "link": "https://www.discogs.com/release/3091516-Dadisi-Komolafe-Hassans-Walk",
+          "sub_genre": "Jazz"
+        },
+        {
+          "artist": "VS Quartet",
+          "title": "A Pou Zot",
+          "rating": 4.69,
+          "have": 128,
+          "want": 741,
+          "power_rank": 27.150703125000003,
+          "link": "https://www.discogs.com/release/5484898-VS-Quartet-A-Pou-Zot-",
+          "sub_genre": "Jazz"
+        },
+        {
+          "artist": "Vince Andrews",
+          "title": "Love Oh Love",
+          "rating": 4.79,
+          "have": 54,
+          "want": 302,
+          "power_rank": 26.78851851851852,
+          "link": "https://www.discogs.com/release/4213335-Vince-Andrews-Love-Oh-Love",
           "sub_genre": "Jazz"
         },
         {
@@ -3587,6 +4247,16 @@
           "sub_genre": "Jazz"
         },
         {
+          "artist": "Os Cinco Pados",
+          "title": "Os Cinco Pados",
+          "rating": 5.0,
+          "have": 55,
+          "want": 251,
+          "power_rank": 22.818181818181817,
+          "link": "https://www.discogs.com/release/3982314-Os-Cinco-Pados-Os-Cinco-Pados",
+          "sub_genre": "Bossa"
+        },
+        {
           "artist": "Charles Tolliver",
           "title": "The Ringer",
           "rating": 4.82,
@@ -3607,6 +4277,16 @@
           "sub_genre": "Jazz"
         },
         {
+          "artist": "John Lee",
+          "title": "Infinite Jones",
+          "rating": 4.51,
+          "have": 149,
+          "want": 737,
+          "power_rank": 22.307852348993286,
+          "link": "https://www.discogs.com/release/1141367-John-Lee-3-Gerry-Brown-Featuring-Chris-Hinze-Gary-Bartz-Infinite-Jones",
+          "sub_genre": "Jazz"
+        },
+        {
           "artist": "Leroy Vinegar",
           "title": "Glass of Water",
           "rating": 4.77,
@@ -3614,6 +4294,16 @@
           "want": 1014,
           "power_rank": 22.28930875576037,
           "link": "https://www.discogs.com/release/1434645-Leroy-Vinnegar-Glass-Of-Water",
+          "sub_genre": "Jazz"
+        },
+        {
+          "artist": "Melvyn Price",
+          "title": "Rhythm and Blues",
+          "rating": 4.8,
+          "have": 165,
+          "want": 765,
+          "power_rank": 22.254545454545454,
+          "link": "https://www.discogs.com/release/1324404-Melvyn-Price-Rhythm-And-Blues",
           "sub_genre": "Jazz"
         },
         {
@@ -3625,6 +4315,16 @@
           "power_rank": 21.818181818181817,
           "link": "https://www.discogs.com/release/32180748-Ryusei-Quartet-%E5%8F%8B%E5%AF%84%E9%9A%86%E7%94%9F%E3%82%AB%E3%83%AB%E3%83%86%E3%83%83%E3%83%88-Dah-Nah-%E3%83%80%E3%83%BC%E3%83%8A%E3%83%BC-",
           "sub_genre": "Jazz"
+        },
+        {
+          "artist": "Os Gatos",
+          "title": "Aquele Som Dos Gatos",
+          "rating": 4.91,
+          "have": 53,
+          "want": 235,
+          "power_rank": 21.77075471698113,
+          "link": "https://www.discogs.com/release/3828938-Os-Gatos-Aqu%C3%AAle-Som-Dos-Gatos",
+          "sub_genre": "Bossa"
         },
         {
           "artist": "Kohske Mine Quartet",
@@ -3654,6 +4354,16 @@
           "want": 1502,
           "power_rank": 21.685125,
           "link": "https://www.discogs.com/release/1500920-Nathan-Davis-If",
+          "sub_genre": "Jazz"
+        },
+        {
+          "artist": "Blue Mitchell",
+          "title": "Blue's Moods Stereo",
+          "rating": 4.85,
+          "have": 73,
+          "want": 326,
+          "power_rank": 21.65890410958904,
+          "link": "https://www.discogs.com/release/8729295-Blue-Mitchell-Blues-Moods",
           "sub_genre": "Jazz"
         },
         {
@@ -3727,6 +4437,16 @@
           "sub_genre": "Jazz"
         },
         {
+          "artist": "Michel Sardaby Trio",
+          "title": "Night Cap",
+          "rating": 4.89,
+          "have": 81,
+          "want": 297,
+          "power_rank": 17.93,
+          "link": "https://www.discogs.com/release/5461054-Michel-Sardaby-Trio-Night-Cap",
+          "sub_genre": "Jazz"
+        },
+        {
           "artist": "Woody Shaw",
           "title": "Blackstone Legacy",
           "rating": 4.67,
@@ -3735,6 +4455,16 @@
           "power_rank": 16.951201923076923,
           "link": "https://www.discogs.com/release/8781097-Woody-Shaw-Blackstone-Legacy",
           "sub_genre": "Jazz"
+        },
+        {
+          "artist": "30/70",
+          "title": "Cold Radish Coma",
+          "rating": 4.85,
+          "have": 83,
+          "want": 289,
+          "power_rank": 16.78622754491018,
+          "link": "https://www.discogs.com/release/8003876-3070-Cold-Radish-Coma",
+          "sub_genre": "Soul Jazz"
         },
         {
           "artist": "Sun Ra",
@@ -3827,6 +4557,16 @@
           "sub_genre": "Jazz"
         },
         {
+          "artist": "Takeshi Inomata",
+          "title": "Liner Note",
+          "rating": 5.0,
+          "have": 54,
+          "want": 159,
+          "power_rank": 14.722222222222223,
+          "link": "https://www.discogs.com/release/7061568-Takeshi-Inomata-His-West-Liners-Liner-Note",
+          "sub_genre": "Jazz"
+        },
+        {
           "artist": "Takeo Moriyama",
           "title": "Hush",
           "rating": 4.58,
@@ -3884,6 +4624,16 @@
           "want": 390,
           "power_rank": 14.03409090909091,
           "link": "https://www.discogs.com/release/6119662-Michael-Garrick-Quintet-Featuring-Joe-Harriott-And-Shake-Keane-October-Woman",
+          "sub_genre": "Jazz"
+        },
+        {
+          "artist": "Kikuchi Jones Van Gelder",
+          "title": "Hollow Out",
+          "rating": 5.0,
+          "have": 114,
+          "want": 315,
+          "power_rank": 13.81578947368421,
+          "link": "https://www.discogs.com/release/4352234-Elvin-Jones-Masabumi-Kikuchi-Hollow-Out",
           "sub_genre": "Jazz"
         },
         {
@@ -4227,6 +4977,16 @@
           "sub_genre": "Jazz"
         },
         {
+          "artist": "Konstrukt & Keiji Haino",
+          "title": "A Philosophy Warping",
+          "rating": 4.86,
+          "have": 101,
+          "want": 181,
+          "power_rank": 8.666600985221676,
+          "link": "https://www.discogs.com/release/10912734-Konstrukt-Keiji-Haino-%E3%82%B3%E3%83%B3%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88-%E7%81%B0%E9%87%8E%E6%95%AC%E4%BA%8C-A-Philosophy-Warping-Little-By-Little-That-",
+          "sub_genre": "Jazz"
+        },
+        {
           "artist": "Mal Waldron",
           "title": "The Quest Mono RVG RP",
           "rating": 4.79,
@@ -4320,7 +5080,7 @@
     },
     {
       "name": "Soul",
-      "count": 34,
+      "count": 39,
       "releases": [
         {
           "artist": "Dido",
@@ -4613,6 +5373,26 @@
           "sub_genre": "Soul Funk"
         },
         {
+          "artist": "Crossection",
+          "title": "Crossection",
+          "rating": 4.79,
+          "have": 81,
+          "want": 516,
+          "power_rank": 30.514074074074074,
+          "link": "https://www.discogs.com/release/7522862-Crossection-Crossection",
+          "sub_genre": "Soul"
+        },
+        {
+          "artist": "Harari",
+          "title": "Black Ink",
+          "rating": 5.0,
+          "have": 21,
+          "want": 125,
+          "power_rank": 29.761904761904763,
+          "link": "https://www.discogs.com/release/6692859-Black-Ink-Black-Ink",
+          "sub_genre": "Afro Soul"
+        },
+        {
           "artist": "Lovelites",
           "title": "With Love from the Lovelites",
           "rating": 4.88,
@@ -4653,6 +5433,26 @@
           "sub_genre": "Soul"
         },
         {
+          "artist": "30/70",
+          "title": "Cold Radish Coma",
+          "rating": 4.85,
+          "have": 83,
+          "want": 289,
+          "power_rank": 16.78622754491018,
+          "link": "https://www.discogs.com/release/8003876-3070-Cold-Radish-Coma",
+          "sub_genre": "Soul Jazz"
+        },
+        {
+          "artist": "Crystals",
+          "title": "Uptown Twist",
+          "rating": 4.63,
+          "have": 145,
+          "want": 487,
+          "power_rank": 15.550413793103447,
+          "link": "https://www.discogs.com/release/1635311-The-Crystals-Twist-Uptown",
+          "sub_genre": "Soul"
+        },
+        {
           "artist": "O.V. Wright",
           "title": "Only For Tonight",
           "rating": 4.71,
@@ -4661,12 +5461,22 @@
           "power_rank": 14.797835820895521,
           "link": "https://www.discogs.com/release/3151623-OV-Wright-If-It-Is-Only-For-Tonight",
           "sub_genre": "Soul"
+        },
+        {
+          "artist": "Sandra Wright",
+          "title": "Wounded Woman",
+          "rating": 4.8,
+          "have": 242,
+          "want": 442,
+          "power_rank": 8.76694214876033,
+          "link": "https://www.discogs.com/release/884151-Sandra-Wright-Wounded-Woman",
+          "sub_genre": "Soul"
         }
       ]
     },
     {
       "name": "Punk",
-      "count": 28,
+      "count": 30,
       "releases": [
         {
           "artist": "Phaidia",
@@ -4707,6 +5517,16 @@
           "power_rank": 18.414901960784313,
           "link": "https://www.discogs.com/release/1390859-Phaidia-In-The-Dark",
           "sub_genre": "Punk NW"
+        },
+        {
+          "artist": "YDI",
+          "title": "A Place In the Sun",
+          "rating": 4.42,
+          "have": 139,
+          "want": 529,
+          "power_rank": 16.821438848920863,
+          "link": "https://www.discogs.com/release/1668874-YDI-A-Place-In-The-Sun",
+          "sub_genre": "Punk"
         },
         {
           "artist": "Ikkashinju",
@@ -4947,12 +5767,22 @@
           "power_rank": 4.511419939577039,
           "link": "https://www.discogs.com/release/1189221-Crow-Bloody-Tear",
           "sub_genre": "Punk"
+        },
+        {
+          "artist": "Svart Framtid",
+          "title": "1984 RP",
+          "rating": 4.82,
+          "have": 266,
+          "want": 208,
+          "power_rank": 3.7690225563909774,
+          "link": "https://www.discogs.com/release/2351933-Svart-Framtid-1984-Ep",
+          "sub_genre": "Punk"
         }
       ]
     },
     {
       "name": "Metal",
-      "count": 32,
+      "count": 35,
       "releases": [
         {
           "artist": "Slauter Xstroyes",
@@ -5135,6 +5965,16 @@
           "sub_genre": "HC"
         },
         {
+          "artist": "Glacier",
+          "title": "Glacier",
+          "rating": 4.75,
+          "have": 297,
+          "want": 611,
+          "power_rank": 9.77188552188552,
+          "link": "https://www.discogs.com/release/3691576-Glacier-Glacier",
+          "sub_genre": "Metal"
+        },
+        {
           "artist": "Parlamentarisk",
           "title": "Har Du Sagt",
           "rating": 4.77,
@@ -5205,6 +6045,16 @@
           "sub_genre": "Metal"
         },
         {
+          "artist": "Despise You",
+          "title": "Despise You",
+          "rating": 4.86,
+          "have": 202,
+          "want": 330,
+          "power_rank": 7.93960396039604,
+          "link": "https://www.discogs.com/release/1429962-Despise-You-Despise-You",
+          "sub_genre": "HC"
+        },
+        {
           "artist": "Monstrosity",
           "title": "Imperial Doom TP",
           "rating": 4.86,
@@ -5255,6 +6105,16 @@
           "sub_genre": "Death"
         },
         {
+          "artist": "Immolation",
+          "title": "Close to a World Below",
+          "rating": 4.42,
+          "have": 336,
+          "want": 428,
+          "power_rank": 5.630238095238095,
+          "link": "https://www.discogs.com/release/547794-Immolation-Close-To-A-World-Below",
+          "sub_genre": "Metal"
+        },
+        {
           "artist": "Corrupted",
           "title": "La Victima Es Tu Mismo JP",
           "rating": 4.82,
@@ -5278,7 +6138,7 @@
     },
     {
       "name": "Reggae",
-      "count": 14,
+      "count": 31,
       "releases": [
         {
           "artist": "Eddie Hooper",
@@ -5351,6 +6211,26 @@
           "sub_genre": "Reggae"
         },
         {
+          "artist": "Junior Delgado",
+          "title": "Dance A Dub",
+          "rating": 5.0,
+          "have": 52,
+          "want": 417,
+          "power_rank": 40.096153846153854,
+          "link": "https://www.discogs.com/release/5027746-Junior-Delgado-Dance-A-Dub",
+          "sub_genre": "Dub"
+        },
+        {
+          "artist": "Sceptre",
+          "title": "Essence Of Redemption",
+          "rating": 4.73,
+          "have": 46,
+          "want": 361,
+          "power_rank": 37.12021739130435,
+          "link": "https://www.discogs.com/release/4476872-Sceptre-Essence-Of-Redemption-Ina-Difrent-Styley",
+          "sub_genre": "Reggae"
+        },
+        {
           "artist": "Vivian Jones",
           "title": "Bank Robbery",
           "rating": 4.96,
@@ -5359,6 +6239,16 @@
           "power_rank": 34.45189189189189,
           "link": "https://www.discogs.com/release/3704059-Vivian-Jones-Bank-Robbery",
           "sub_genre": "Reggae"
+        },
+        {
+          "artist": "Jackie Mittoo",
+          "title": "Showcase",
+          "rating": 4.69,
+          "have": 133,
+          "want": 951,
+          "power_rank": 33.53526315789474,
+          "link": "https://www.discogs.com/release/4039795-Jackie-Mittoo-Showcase",
+          "sub_genre": "Dub Jazz"
         },
         {
           "artist": "Wackies",
@@ -5371,6 +6261,26 @@
           "sub_genre": "Dub"
         },
         {
+          "artist": "Robert French",
+          "title": "Wondering",
+          "rating": 4.87,
+          "have": 96,
+          "want": 600,
+          "power_rank": 30.4375,
+          "link": "https://www.discogs.com/release/3171585-Robert-Ffrench-Wondering",
+          "sub_genre": "Reggae"
+        },
+        {
+          "artist": "Bushrangers",
+          "title": "Stuntman",
+          "rating": 4.58,
+          "have": 44,
+          "want": 258,
+          "power_rank": 26.855454545454545,
+          "link": "https://www.discogs.com/release/2191132-The-Bushrangers-Stuntman",
+          "sub_genre": "Reggae"
+        },
+        {
           "artist": "Derrick Morgan",
           "title": "Forward March",
           "rating": 4.77,
@@ -5381,6 +6291,26 @@
           "sub_genre": "Reggae"
         },
         {
+          "artist": "Al Campbell",
+          "title": "Working Man",
+          "rating": 4.83,
+          "have": 93,
+          "want": 513,
+          "power_rank": 26.642903225806453,
+          "link": "https://www.discogs.com/release/2804745-Al-Campbell-Working-Man",
+          "sub_genre": "Reggae"
+        },
+        {
+          "artist": "Science of Sound",
+          "title": "Kaliedoscope Phonetics",
+          "rating": 4.87,
+          "have": 86,
+          "want": 439,
+          "power_rank": 24.859651162790698,
+          "link": "https://www.discogs.com/release/518332-Science-Of-Sound-Kaleidoscope-Phonetics",
+          "sub_genre": "Hip Hop"
+        },
+        {
           "artist": "Weedy",
           "title": "Guet-Apens",
           "rating": 4.92,
@@ -5389,6 +6319,56 @@
           "power_rank": 24.502251655629138,
           "link": "https://www.discogs.com/release/1482808-Weedy-2-Le-TIN-Presents-Eskwad-Production-Guet-Apens",
           "sub_genre": "Hip Hop"
+        },
+        {
+          "artist": "Shawty Pimp",
+          "title": "Comin' Real Wit It",
+          "rating": 4.87,
+          "have": 233,
+          "want": 1168,
+          "power_rank": 24.412703862660944,
+          "link": "https://www.discogs.com/release/6341713-Shawty-Pimp-Feat-Reddog-Comin-Real-Wit-It",
+          "sub_genre": "Hip Hop"
+        },
+        {
+          "artist": "Winston Edwards",
+          "title": "Natty Locks Dub",
+          "rating": 4.76,
+          "have": 88,
+          "want": 443,
+          "power_rank": 23.962272727272726,
+          "link": "https://www.discogs.com/release/1634039-Winston-Edwards-Natty-Locks-Dub",
+          "sub_genre": "Dub Jazz"
+        },
+        {
+          "artist": "Mwanamke Mwafrika",
+          "title": "African Woman Abroad",
+          "rating": 4.86,
+          "have": 125,
+          "want": 589,
+          "power_rank": 22.90032,
+          "link": "https://www.discogs.com/release/2942357-Mwanamke-Mwafrika-African-Woman-Abroad",
+          "sub_genre": "Reggae"
+        },
+        {
+          "artist": "Criminal Minds",
+          "title": "Guilty As Charged",
+          "rating": 4.82,
+          "have": 108,
+          "want": 491,
+          "power_rank": 21.913148148148153,
+          "link": "https://www.discogs.com/release/323797-The-Criminal-Minds-Guilty-As-Charged",
+          "sub_genre": "Hip Hop"
+        },
+        {
+          "artist": "Maya Dread",
+          "title": "Kaya Dub",
+          "rating": 4.9,
+          "have": 71,
+          "want": 303,
+          "power_rank": 20.911267605633803,
+          "link": "https://www.discogs.com/release/1906501-Maya-Dread-Kaya-Dub",
+          "sub_genre": "Dub"
         },
         {
           "artist": "Cartel",
@@ -5411,6 +6391,36 @@
           "sub_genre": "Dub"
         },
         {
+          "artist": "Inner Circle",
+          "title": "Killer Dub",
+          "rating": 4.58,
+          "have": 110,
+          "want": 462,
+          "power_rank": 19.236,
+          "link": "https://www.discogs.com/release/4154954-Inner-Circle-Killer-Dub",
+          "sub_genre": "Dub"
+        },
+        {
+          "artist": "Sons of Jah",
+          "title": "Reggae Hit Showcase",
+          "rating": 4.85,
+          "have": 81,
+          "want": 317,
+          "power_rank": 18.980864197530863,
+          "link": "https://www.discogs.com/release/2790969-Sons-Of-Jah-Reggae-Hit-Showcase",
+          "sub_genre": "Reggae"
+        },
+        {
+          "artist": "Cornell Campbell",
+          "title": "Ropin'",
+          "rating": 4.92,
+          "have": 68,
+          "want": 249,
+          "power_rank": 18.015882352941176,
+          "link": "https://www.discogs.com/release/1502102-Cornell-Campbell-Ropin",
+          "sub_genre": "Reggae"
+        },
+        {
           "artist": "Lacksley Castell",
           "title": "Morning Glory",
           "rating": 4.9,
@@ -5419,12 +6429,32 @@
           "power_rank": 17.887543252595158,
           "link": "https://www.discogs.com/release/895114-Lacksley-Castell-Morning-Glory",
           "sub_genre": "Reggae"
+        },
+        {
+          "artist": "Toyan",
+          "title": "Spar with Me",
+          "rating": 4.94,
+          "have": 101,
+          "want": 288,
+          "power_rank": 14.086336633663366,
+          "link": "https://www.discogs.com/release/2050872-Toyan-Spar-With-Me",
+          "sub_genre": "Reggae"
+        },
+        {
+          "artist": "Alton Ellis",
+          "title": "Many Moods",
+          "rating": 4.84,
+          "have": 211,
+          "want": 396,
+          "power_rank": 9.083601895734597,
+          "link": "https://www.discogs.com/release/2802422-Alton-Ellis-Many-Moods-Of-Alton-Ellis",
+          "sub_genre": "Reggae"
         }
       ]
     },
     {
       "name": "Rock",
-      "count": 85,
+      "count": 115,
       "releases": [
         {
           "artist": "Led Zeppelin",
@@ -5667,6 +6697,16 @@
           "sub_genre": "Rock"
         },
         {
+          "artist": "Jimi Hendrix",
+          "title": "Are You Experienced Mono 1977 Japan",
+          "rating": 5.0,
+          "have": 82,
+          "want": 815,
+          "power_rank": 49.69512195121951,
+          "link": "https://www.discogs.com/release/5243851-The-Jimi-Hendrix-Experience-Are-You-Experienced",
+          "sub_genre": "Rock"
+        },
+        {
           "artist": "Led Zeppelin",
           "title": "Led Zeppelin Blue Text Alt UK",
           "rating": 4.72,
@@ -5684,6 +6724,16 @@
           "want": 2316,
           "power_rank": 47.031052631578945,
           "link": "https://www.discogs.com/release/2339853-The-Zombies-Odessey-And-Oracle",
+          "sub_genre": "Rock"
+        },
+        {
+          "artist": "AKA",
+          "title": "Cruel Side Of The Suez War",
+          "rating": 4.83,
+          "have": 39,
+          "want": 348,
+          "power_rank": 43.09846153846154,
+          "link": "https://www.discogs.com/release/3108744-AKA-Cruel-Side-Of-The-Suez-War",
           "sub_genre": "Rock"
         },
         {
@@ -5787,6 +6837,16 @@
           "sub_genre": "Rock"
         },
         {
+          "artist": "Led Zeppelin",
+          "title": "Led Zeppelin Blue/Green RP Japan",
+          "rating": 4.64,
+          "have": 194,
+          "want": 1503,
+          "power_rank": 35.9480412371134,
+          "link": "https://www.discogs.com/release/2219240-Led-Zeppelin-%E3%83%AC%E3%83%83%E3%83%89%E3%83%84%E3%82%A7%E3%83%83%E3%83%9A%E3%83%AA%E3%83%B3-Led-Zeppelin-%E3%83%AC%E3%83%83%E3%83%89%E3%83%84%E3%82%A7%E3%83%83%E3%83%9A%E3%83%AA%E3%83%B3",
+          "sub_genre": "Rock"
+        },
+        {
           "artist": "Truth and Janey",
           "title": "No Rest For the Wicked",
           "rating": 4.27,
@@ -5807,6 +6867,16 @@
           "sub_genre": "Rock"
         },
         {
+          "artist": "Led Zeppelin",
+          "title": "Led Zeppelin Misprint Japan",
+          "rating": 4.78,
+          "have": 233,
+          "want": 1626,
+          "power_rank": 33.35742489270387,
+          "link": "https://www.discogs.com/release/3814366-Led-Zeppelin-%E3%83%AC%E3%83%83%E3%83%89%E3%83%84%E3%82%A7%E3%83%83%E3%83%9A%E3%83%AA%E3%83%B3-Led-Zeppelin-%E3%83%AC%E3%83%83%E3%83%89%E3%83%84%E3%82%A7%E3%83%83%E3%83%9A%E3%83%AA%E3%83%B3",
+          "sub_genre": "Rock"
+        },
+        {
           "artist": "Totem",
           "title": "Corrupcion",
           "rating": 4.7,
@@ -5814,6 +6884,16 @@
           "want": 383,
           "power_rank": 32.729090909090914,
           "link": "https://www.discogs.com/release/3924096-Totem-Corrupci%C3%B3n",
+          "sub_genre": "Rock"
+        },
+        {
+          "artist": "Pink Floyd",
+          "title": "Meddle 1971 Japan Red",
+          "rating": 4.7,
+          "have": 188,
+          "want": 1283,
+          "power_rank": 32.075,
+          "link": "https://www.discogs.com/release/5708479-Pink-Floyd-Meddle",
           "sub_genre": "Rock"
         },
         {
@@ -5834,6 +6914,16 @@
           "want": 1495,
           "power_rank": 31.840625,
           "link": "https://www.discogs.com/release/5337264-Josefus-Dead-Man",
+          "sub_genre": "Rock"
+        },
+        {
+          "artist": "Ersen",
+          "title": "Dunden Bugune",
+          "rating": 4.8,
+          "have": 97,
+          "want": 638,
+          "power_rank": 31.571134020618555,
+          "link": "https://www.discogs.com/release/3759481-Ersen-D%C3%BCnden-Bug%C3%Bcne",
           "sub_genre": "Rock"
         },
         {
@@ -5864,6 +6954,16 @@
           "want": 1736,
           "power_rank": 30.789433962264155,
           "link": "https://www.discogs.com/release/5076794-Orang-Utan-Orang-Utan",
+          "sub_genre": "Rock"
+        },
+        {
+          "artist": "Jimi Hendrix",
+          "title": "Are You Experienced Mono 1975 Japan",
+          "rating": 4.58,
+          "have": 127,
+          "want": 839,
+          "power_rank": 30.256850393700788,
+          "link": "https://www.discogs.com/release/4827463-The-Jimi-Hendrix-Experience-Are-You-Experienced",
           "sub_genre": "Rock"
         },
         {
@@ -5917,6 +7017,16 @@
           "sub_genre": "Rock"
         },
         {
+          "artist": "Muddy Waters",
+          "title": "Folk Singer US Mono",
+          "rating": 4.5,
+          "have": 228,
+          "want": 1405,
+          "power_rank": 27.730263157894736,
+          "link": "https://www.discogs.com/release/4487456-Muddy-Waters-Folk-Singer",
+          "sub_genre": "Blues"
+        },
+        {
           "artist": "Eela Craig",
           "title": "Eela Craig",
           "rating": 4.37,
@@ -5925,6 +7035,16 @@
           "power_rank": 27.708681318681318,
           "link": "https://www.discogs.com/release/3548444-Eela-Craig-Eela-Craig",
           "sub_genre": "Exp Prog"
+        },
+        {
+          "artist": "Jerusalem",
+          "title": "Jerusalem RP",
+          "rating": 4.75,
+          "have": 100,
+          "want": 569,
+          "power_rank": 27.027500000000003,
+          "link": "https://www.discogs.com/release/8123407-Jerusalem-Jerusalem",
+          "sub_genre": "Rock"
         },
         {
           "artist": "Las Animas",
@@ -6007,6 +7127,16 @@
           "sub_genre": "Rock"
         },
         {
+          "artist": "Led Zeppelin",
+          "title": "Led Zeppelin II Red/Plum A2/B5 UK",
+          "rating": 4.67,
+          "have": 176,
+          "want": 906,
+          "power_rank": 24.039886363636363,
+          "link": "https://www.discogs.com/release/9505777-Led-Zeppelin-Led-Zeppelin-II",
+          "sub_genre": "Rock"
+        },
+        {
           "artist": "Andromeda",
           "title": "Andromeda",
           "rating": 4.55,
@@ -6037,6 +7167,16 @@
           "sub_genre": "Rock"
         },
         {
+          "artist": "Jimi Hendrix",
+          "title": "Are You Experienced Mono 1979 Japan",
+          "rating": 4.79,
+          "have": 181,
+          "want": 835,
+          "power_rank": 22.097513812154695,
+          "link": "https://www.discogs.com/release/2622930-The-Jimi-Hendrix-Experience-Are-You-Experienced",
+          "sub_genre": "Rock"
+        },
+        {
           "artist": "Human Beast",
           "title": "Volume One",
           "rating": 4.61,
@@ -6055,6 +7195,16 @@
           "power_rank": 20.426020408163264,
           "link": "https://www.discogs.com/release/3032020-JET-Fede-Speranza-Carit%C3%A0",
           "sub_genre": "Ital"
+        },
+        {
+          "artist": "Led Zeppelin",
+          "title": "Untitled Version 6 UK",
+          "rating": 4.69,
+          "have": 297,
+          "want": 1292,
+          "power_rank": 20.402289562289564,
+          "link": "https://www.discogs.com/release/4598377-Led-Zeppelin-Untitled",
+          "sub_genre": "Rock"
         },
         {
           "artist": "Ravjunk",
@@ -6087,6 +7237,16 @@
           "sub_genre": "Rock"
         },
         {
+          "artist": "Auktyon",
+          "title": "Ptiza",
+          "rating": 4.84,
+          "have": 110,
+          "want": 446,
+          "power_rank": 19.624,
+          "link": "https://www.discogs.com/release/2768437-Auktyon-Ptiza",
+          "sub_genre": "Rock"
+        },
+        {
           "artist": "Jimi Hendrix",
           "title": "Electric Ladyland White Text Misprint UK",
           "rating": 4.71,
@@ -6107,6 +7267,16 @@
           "sub_genre": "Exp Prog"
         },
         {
+          "artist": "Led Zeppelin",
+          "title": "Untitled Version 7 UK",
+          "rating": 4.64,
+          "have": 328,
+          "want": 1342,
+          "power_rank": 18.98439024390244,
+          "link": "https://www.discogs.com/release/5547932-Led-Zeppelin-Untitled-",
+          "sub_genre": "Rock"
+        },
+        {
           "artist": "Pappo's Blues",
           "title": "Vol 1",
           "rating": 4.73,
@@ -6115,6 +7285,16 @@
           "power_rank": 18.835535714285715,
           "link": "https://www.discogs.com/release/2623170-Pappos-Blues-Pappos-Blues",
           "sub_genre": "Rock"
+        },
+        {
+          "artist": "Astaron",
+          "title": "Astaron",
+          "rating": 4.74,
+          "have": 97,
+          "want": 382,
+          "power_rank": 18.66680412371134,
+          "link": "https://www.discogs.com/release/1373676-Astaron-Astaron",
+          "sub_genre": "Rock NW"
         },
         {
           "artist": "Moses",
@@ -6167,6 +7347,16 @@
           "sub_genre": "Rock"
         },
         {
+          "artist": "Velvet Underground",
+          "title": "Velvet Underground MGM US",
+          "rating": 4.56,
+          "have": 353,
+          "want": 1323,
+          "power_rank": 17.090311614730876,
+          "link": "https://www.discogs.com/release/6651368-The-Velvet-Underground-The-Velvet-Underground",
+          "sub_genre": "Rock"
+        },
+        {
           "artist": "Paul Pena",
           "title": "Paul Pena",
           "rating": 4.7,
@@ -6197,6 +7387,26 @@
           "sub_genre": "Rock"
         },
         {
+          "artist": "Dragon",
+          "title": "Universal Radio",
+          "rating": 4.75,
+          "have": 92,
+          "want": 293,
+          "power_rank": 15.127717391304348,
+          "link": "https://www.discogs.com/release/2098361-Dragon-Universal-Radio",
+          "sub_genre": "Rock"
+        },
+        {
+          "artist": "Buffalo",
+          "title": "Volcanic Rock",
+          "rating": 4.56,
+          "have": 477,
+          "want": 1574,
+          "power_rank": 15.04704402515723,
+          "link": "https://www.discogs.com/release/1790847-Buffalo-Volcanic-Rock",
+          "sub_genre": "Rock"
+        },
+        {
           "artist": "Pearl Jam",
           "title": "Benaroya Hall",
           "rating": 4.74,
@@ -6217,6 +7427,26 @@
           "sub_genre": "Rock"
         },
         {
+          "artist": "Round House",
+          "title": "Down to Earth",
+          "rating": 4.75,
+          "have": 130,
+          "want": 368,
+          "power_rank": 13.446153846153846,
+          "link": "https://www.discogs.com/release/4146874-Round-House-Down-To-Earth",
+          "sub_genre": "Exp Prog"
+        },
+        {
+          "artist": "Remains",
+          "title": "The Remains Mono",
+          "rating": 4.54,
+          "have": 260,
+          "want": 727,
+          "power_rank": 12.69453846153846,
+          "link": "https://www.discogs.com/release/3230625-The-Remains-The-Remains",
+          "sub_genre": "Rock"
+        },
+        {
           "artist": "L'Uovo Di Colombo",
           "title": "L'Uovo Di Colombo",
           "rating": 4.14,
@@ -6227,6 +7457,16 @@
           "sub_genre": "Ital"
         },
         {
+          "artist": "Boston",
+          "title": "Boston Mofi",
+          "rating": 4.81,
+          "have": 399,
+          "want": 1050,
+          "power_rank": 12.657894736842104,
+          "link": "https://www.discogs.com/release/3919646-Boston-Boston",
+          "sub_genre": "Rock"
+        },
+        {
           "artist": "Slo Burn",
           "title": "Amusing the Amazing",
           "rating": 4.8,
@@ -6235,6 +7475,26 @@
           "power_rank": 12.012435233160621,
           "link": "https://www.discogs.com/release/1760894-Slo-Burn-Amusing-The-Amazing",
           "sub_genre": "Rock"
+        },
+        {
+          "artist": "X",
+          "title": "Aspirations",
+          "rating": 4.77,
+          "have": 233,
+          "want": 500,
+          "power_rank": 10.236051502145921,
+          "link": "https://www.discogs.com/release/1770704-X-Aspirations",
+          "sub_genre": "Rock"
+        },
+        {
+          "artist": "Minuit Machine",
+          "title": "Violent Rains",
+          "rating": 4.72,
+          "have": 71,
+          "want": 155,
+          "power_rank": 10.232167832167832,
+          "link": "https://www.discogs.com/release/7627720-Minuit-Machine-Violent-Rains?ev=",
+          "sub_genre": "Rock NW"
         },
         {
           "artist": "Tarkus",
@@ -6248,12 +7508,72 @@
         },
         {
           "artist": "Led Zeppelin",
+          "title": "Led Zeppelin Purple/Brown Label US",
+          "rating": 4.57,
+          "have": 919,
+          "want": 1821,
+          "power_rank": 9.055462459194777,
+          "link": "https://www.discogs.com/release/4590218-Led-Zeppelin-Led-Zeppelin",
+          "sub_genre": "Rock"
+        },
+        {
+          "artist": "Buckingham Nicks",
+          "title": "Buckingham Nicks France",
+          "rating": 4.67,
+          "have": 117,
+          "want": 225,
+          "power_rank": 8.980769230769232,
+          "link": "https://www.discogs.com/release/6745304-Buckingham-Nicks-Buckingham-Nicks",
+          "sub_genre": "Rock"
+        },
+        {
+          "artist": "Led Zeppelin",
           "title": "Led Zeppelin Blue Text UK",
           "rating": 4.54,
           "have": 592,
           "want": 1111,
           "power_rank": 8.523236486486487,
           "link": "https://www.discogs.com/release/1218217-Led-Zeppelin-Led-Zeppelin",
+          "sub_genre": "Rock"
+        },
+        {
+          "artist": "Led Zeppelin",
+          "title": "Led Zeppelin II Japan",
+          "rating": 4.68,
+          "have": 866,
+          "want": 1519,
+          "power_rank": 8.20891454965358,
+          "link": "https://www.discogs.com/release/3377692-Led-Zeppelin-%E3%83%AC%E3%83%83%E3%83%89%E3%83%84%E3%82%A7%E3%83%83%E3%83%9A%E3%83%AA%E3%83%B3-Led-Zeppelin-II-%E3%83%AC%E3%83%83%E3%83%89%E3%83%84%E3%82%A7%E3%83%83%E3%83%9A%E3%83%AA%E3%83%B3%E2%85%A1",
+          "sub_genre": "Rock"
+        },
+        {
+          "artist": "Black Sabbath",
+          "title": "Black Sabbath UK",
+          "rating": 4.55,
+          "have": 548,
+          "want": 864,
+          "power_rank": 7.169319839533188,
+          "link": "https://www.discogs.com/release/462466-Black-Sabbath-Black-Sabbath",
+          "sub_genre": "Rock"
+        },
+        {
+          "artist": "Jimi Hendrix",
+          "title": "Are You Experienced Mono UK",
+          "rating": 4.45,
+          "have": 401,
+          "want": 618,
+          "power_rank": 6.850585013691809,
+          "link": "https://www.discogs.com/release/993028-The-Jimi-Hendrix-Experience-Are-You-Experienced",
+          "sub_genre": "Rock"
+        },
+        {
+          "artist": "Black Sabbath",
+          "title": "Paranoid UK HP",
+          "rating": 4.53,
+          "have": 1157,
+          "want": 1444,
+          "power_rank": 5.655062219149672,
+          "link": "https://www.discogs.com/release/696772-Black-Sabbath-Paranoid",
           "sub_genre": "Rock"
         },
         {
@@ -6275,12 +7595,22 @@
           "power_rank": 5.197634291915355,
           "link": "https://www.discogs.com/release/2893139-Led-Zeppelin-Untitled",
           "sub_genre": "Rock"
+        },
+        {
+          "artist": "Led Zeppelin",
+          "title": "Untitled Version 2 UK",
+          "rating": 4.64,
+          "have": 449,
+          "want": 454,
+          "power_rank": 4.6854092526690385,
+          "link": "https://www.discogs.com/release/5135884-Led-Zeppelin-Untitled-",
+          "sub_genre": "Rock"
         }
       ]
     },
     {
       "name": "Jazz Funk",
-      "count": 27,
+      "count": 35,
       "releases": [
         {
           "artist": "Admas",
@@ -6523,6 +7853,16 @@
           "sub_genre": "Jazz Funk"
         },
         {
+          "artist": "Godchild",
+          "title": "Godchild",
+          "rating": 4.59,
+          "have": 162,
+          "want": 1114,
+          "power_rank": 31.563333333333333,
+          "link": "https://www.discogs.com/release/676094-Godchild-Godchild",
+          "sub_genre": "Jazz Funk"
+        },
+        {
           "artist": "Les News Boys",
           "title": "Vol. 4",
           "rating": 4.83,
@@ -6551,12 +7891,82 @@
           "power_rank": 27.546024423337855,
           "link": "https://www.discogs.com/release/896553-James-Mason-Rhythm-Of-Life",
           "sub_genre": "Jazz Funk"
+        },
+        {
+          "artist": "Eddie Russ",
+          "title": "Fresh Out",
+          "rating": 4.72,
+          "have": 95,
+          "want": 547,
+          "power_rank": 27.177263157894735,
+          "link": "https://www.discogs.com/release/2623601-Eddie-Russ-Fresh-Out",
+          "sub_genre": "Jazz Funk"
+        },
+        {
+          "artist": "Frank Hatchett",
+          "title": "Get Up and Dance",
+          "rating": 4.75,
+          "have": 73,
+          "want": 364,
+          "power_rank": 23.684931506849317,
+          "link": "https://www.discogs.com/release/2814698-Frank-Hatchett-Get-Up-And-Dance",
+          "sub_genre": "Jazz Funk"
+        },
+        {
+          "artist": "Juan Almeida",
+          "title": "Fantasia",
+          "rating": 4.82,
+          "have": 125,
+          "want": 597,
+          "power_rank": 23.02032,
+          "link": "https://www.discogs.com/release/3157216-Juan-Almeida-Fantasia",
+          "sub_genre": "Jazz Funk"
+        },
+        {
+          "artist": "Mario Nascimbene",
+          "title": "Production Music",
+          "rating": 4.53,
+          "have": 38,
+          "want": 168,
+          "power_rank": 20.027368421052635,
+          "link": "https://www.discogs.com/release/5660188-Various-Production-Music",
+          "sub_genre": "Jazz Funk"
+        },
+        {
+          "artist": "Calvin Keys",
+          "title": "Full Court Press",
+          "rating": 4.69,
+          "have": 190,
+          "want": 747,
+          "power_rank": 18.439105263157895,
+          "link": "https://www.discogs.com/release/2880691-Calvin-Keys-Full-Court-Press",
+          "sub_genre": "Jazz Funk"
+        },
+        {
+          "artist": "Frode Thingnaes",
+          "title": "Feelin' All Right",
+          "rating": 4.75,
+          "have": 115,
+          "want": 324,
+          "power_rank": 13.382608695652175,
+          "link": "https://www.discogs.com/release/3985255-Frode-Thingn%C3%A6s-Feelin-All-Right",
+          "sub_genre": "Jazz Funk"
+        },
+        {
+          "artist": "Various",
+          "title": "Sounds 80",
+          "rating": 4.64,
+          "have": 76,
+          "want": 200,
+          "power_rank": 12.210526315789474,
+          "link": "https://www.discogs.com/release/2872581-Various-Sounds-80",
+          "sub_genre": "Jazz Funk"
         }
       ]
     },
     {
       "name": "Latin",
-      "count": 18,
+      "count": 26,
       "releases": [
         {
           "artist": "Elia y Elizabeth",
@@ -6609,6 +8019,16 @@
           "sub_genre": "Latin"
         },
         {
+          "artist": "Dionisio Maio",
+          "title": "Dionisio Maio",
+          "rating": 4.69,
+          "have": 44,
+          "want": 618,
+          "power_rank": 65.87318181818182,
+          "link": "https://www.discogs.com/release/8444751-Dionisio-Maio-Dionisio-Maio",
+          "sub_genre": "Latin"
+        },
+        {
           "artist": "Los Mozambiques",
           "title": "El Presidiario",
           "rating": 4.71,
@@ -6639,6 +8059,26 @@
           "sub_genre": "Cumbia"
         },
         {
+          "artist": "Brother Superior",
+          "title": "A New Beginning",
+          "rating": 4.73,
+          "have": 49,
+          "want": 553,
+          "power_rank": 53.38142857142858,
+          "link": "https://www.discogs.com/release/3997379-Brother-Superior-A-New-Beginning",
+          "sub_genre": "Latin"
+        },
+        {
+          "artist": "Tony Hernandez",
+          "title": "La Voz Encantadora Alt",
+          "rating": 5.0,
+          "have": 4,
+          "want": 42,
+          "power_rank": 52.5,
+          "link": "https://www.discogs.com/release/9071310-Tony-Hernandez-The-Latin-Liners-La-Voz-Encantadora-De-Tony-Hernandez-The-Latin-Liners?redirected=true",
+          "sub_genre": "Latin"
+        },
+        {
           "artist": "Abelardo Carbono",
           "title": "Abelardo Carbono Y Su Conjunto",
           "rating": 4.88,
@@ -6646,6 +8086,16 @@
           "want": 379,
           "power_rank": 48.67157894736842,
           "link": "https://www.discogs.com/release/3246201-Abelardo-Carbon%C3%B3-Y-Su-Conjunto-Abelardo-Carbon%C3%B3-Y-Su-Conjunto",
+          "sub_genre": "Latin"
+        },
+        {
+          "artist": "Bana",
+          "title": "Disco",
+          "rating": 4.74,
+          "have": 41,
+          "want": 364,
+          "power_rank": 42.0819512195122,
+          "link": "https://www.discogs.com/release/4815204-Bana-Disco",
           "sub_genre": "Latin"
         },
         {
@@ -6666,6 +8116,16 @@
           "want": 439,
           "power_rank": 40.52307692307692,
           "link": "https://www.discogs.com/release/5506429-Abel-Lima-Africa-Boum",
+          "sub_genre": "Latin"
+        },
+        {
+          "artist": "Joao Cirilo",
+          "title": "Raizes",
+          "rating": 4.83,
+          "have": 58,
+          "want": 480,
+          "power_rank": 39.97241379310345,
+          "link": "https://www.discogs.com/release/2740927-Jo%C3%A3o-Cirilo-P%C3%B3-DTerra-Ra%C3%Adzes",
           "sub_genre": "Latin"
         },
         {
@@ -6699,6 +8159,16 @@
           "sub_genre": "Latin"
         },
         {
+          "artist": "Latin Tempo",
+          "title": "Sangre Nueva",
+          "rating": 4.76,
+          "have": 149,
+          "want": 864,
+          "power_rank": 27.60161073825503,
+          "link": "https://www.discogs.com/release/3945682-Latin-Tempo-Sangre-Nueva",
+          "sub_genre": "Latin"
+        },
+        {
           "artist": "Joey Aponte",
           "title": "Salsa Son Y Melao",
           "rating": 4.94,
@@ -6706,6 +8176,26 @@
           "want": 234,
           "power_rank": 22.66588235294118,
           "link": "https://www.discogs.com/release/4856831-Joey-Sonny-Aponte-Y-Su-Orquesta-Salsa-Son-Y-Melao",
+          "sub_genre": "Latin"
+        },
+        {
+          "artist": "Orquesta Power",
+          "title": "Power",
+          "rating": 4.64,
+          "have": 90,
+          "want": 349,
+          "power_rank": 17.99288888888889,
+          "link": "https://www.discogs.com/release/6221510-Orquesta-Power-Power",
+          "sub_genre": "Latin"
+        },
+        {
+          "artist": "Orquesta Power",
+          "title": "Alto Voltaje",
+          "rating": 4.83,
+          "have": 92,
+          "want": 280,
+          "power_rank": 14.700000000000001,
+          "link": "https://www.discogs.com/release/5305255-Orquesta-Power-Alto-Voltaje",
           "sub_genre": "Latin"
         },
         {
