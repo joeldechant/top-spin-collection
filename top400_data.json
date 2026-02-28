@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-28T15:38:57.706168",
+  "generated": "2026-02-28T16:28:31.982822",
   "snapshot": "2/26",
-  "total_unique": 810,
-  "total_entries": 813,
+  "total_unique": 809,
+  "total_entries": 812,
   "genres": [
     {
       "name": "African",
@@ -888,7 +888,7 @@
     },
     {
       "name": "Afro Funk",
-      "count": 55,
+      "count": 54,
       "releases": [
         {
           "artist": "Gboyega Adelaja",
@@ -1428,16 +1428,6 @@
           "want": 220,
           "power_rank": 21.865306122448978,
           "link": "https://www.discogs.com/release/1738052-Fotso-Simo-And-His-Agogo-Movement-Dance-Agogo-Part-One",
-          "sub_genre": "Afro Funk"
-        },
-        {
-          "artist": "Harari",
-          "title": "Manana",
-          "rating": 4.69,
-          "have": 76,
-          "want": 339,
-          "power_rank": 20.919868421052634,
-          "link": "https://www.discogs.com/release/2340562-Harari-Manana",
           "sub_genre": "Afro Funk"
         }
       ]
