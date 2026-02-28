@@ -337,6 +337,7 @@ def main():
   <div class="container">
     <header>
       <h1>Top Spin Collection</h1>
+      <img src="gramophone.png" alt="Gramophone" style="width: 120px; height: auto; margin-top: 10px;">
     </header>
 
     <div id="genre-nav">
