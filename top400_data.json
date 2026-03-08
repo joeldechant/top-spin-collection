@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-28T16:28:31.982822",
+  "generated": "2026-03-08T10:27:19.601787",
   "snapshot": "2/26",
-  "total_unique": 809,
-  "total_entries": 812,
+  "total_unique": 810,
+  "total_entries": 813,
   "genres": [
     {
       "name": "African",
@@ -3244,7 +3244,7 @@
     },
     {
       "name": "Jazz",
-      "count": 182,
+      "count": 183,
       "releases": [
         {
           "artist": "Rhythm and Art",
@@ -3334,6 +3334,16 @@
           "want": 626,
           "power_rank": 94.84848484848484,
           "link": "https://www.discogs.com/release/8960668-Joe-Henderson-Hendersons-Habiliment",
+          "sub_genre": "Jazz"
+        },
+        {
+          "artist": "Gideon Nxumalo",
+          "title": "Gideon Plays",
+          "rating": 4.88,
+          "have": 24,
+          "want": 455,
+          "power_rank": 92.51666666666667,
+          "link": "https://www.discogs.com/release/7602662-Gideon-Nxumalo-Gideon-Plays",
           "sub_genre": "Jazz"
         },
         {

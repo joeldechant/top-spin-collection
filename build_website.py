@@ -60,12 +60,12 @@ def main():
 
             rows_html.append(f"""            <tr>
               <td class="rank">{genre_rank}</td>
-              <td class="artist"><div class="clamp-wrap"><div class="clamp"><span>{artist_escaped}</span></div></div></td>
-              <td class="album"><div class="clamp-wrap"><div class="clamp">{title_cell}</div></div></td>
+              <td class="artist"><div class="clamp">{artist_escaped}</div></td>
+              <td class="album"><div class="clamp">{title_cell}</div></td>
               <td class="num rating-col">{rating}</td>
               <td class="num have-col">{have}</td>
               <td class="num want-col">{want}</td>
-              <td class="num">{pr}</td>
+              <td class="num stat pr-col">{pr}</td>
             </tr>""")
             genre_rank += 1
 
@@ -81,7 +81,7 @@ def main():
               <th class="num rating-col">Rating</th>
               <th class="num have-col">Have</th>
               <th class="num want-col">Want</th>
-              <th class="num">Power<br>Rank</th>
+              <th class="num stat pr-col">Power<br>Rank</th>
             </tr>
           </thead>
           <tbody>
@@ -137,7 +137,7 @@ def main():
 
     /* Genre nav */
     #genre-nav {{
-      padding: 12px 16px;
+      padding: 12px 140px;
       border-bottom: 2px solid #fff;
       text-align: center;
     }}
@@ -224,7 +224,7 @@ def main():
 
     td {{
       padding: 3px 5px;
-      vertical-align: middle;
+      vertical-align: top;
     }}
 
     /* Column styles */
@@ -235,24 +235,21 @@ def main():
     }}
 
     .artist {{
-      max-width: 110px;
+      max-width: 150px;
     }}
 
     .album {{
-      max-width: 130px;
+      max-width: 190px;
     }}
 
-    .clamp-wrap {{
-      display: flex;
-      align-items: center;
-      min-height: 2.8em;
+    .pr-col {{
+      width: 80px;
     }}
 
     .clamp {{
-      display: -webkit-box;
-      -webkit-line-clamp: 2;
-      -webkit-box-orient: vertical;
+      white-space: nowrap;
       overflow: hidden;
+      text-overflow: ellipsis;
     }}
 
     .num {{
@@ -261,7 +258,15 @@ def main():
       white-space: nowrap;
     }}
 
-    thead th.num {{
+    .stat {{
+      font-weight: 900;
+      font-size: 1.1em;
+      letter-spacing: -0.5px;
+      text-align: center;
+    }}
+
+    thead th.num,
+    thead th.stat {{
       text-align: center;
     }}
 
@@ -273,17 +278,11 @@ def main():
     a {{
       color: #fff;
       text-decoration: none;
-      border-bottom: 1px solid #555;
-    }}
-
-    a:hover {{
-      border-bottom-color: #fff;
     }}
 
     .table-header a,
     header a {{
       color: #000;
-      border-bottom: none;
     }}
 
     /* Footer */
@@ -298,19 +297,15 @@ def main():
 
     footer a {{
       color: #fff;
-      border-bottom: 1px solid #555;
-    }}
-
-    footer a:hover {{
-      border-bottom-color: #fff;
     }}
 
     /* Responsive — mobile primary, all columns visible */
     @media (max-width: 600px) {{
       body {{ padding: 8px; }}
 
-      header h1 {{ font-size: 1.8em; letter-spacing: 0.04em; }}
+      header h1 {{ font-size: 2.4em; letter-spacing: 0.04em; }}
 
+      #genre-nav {{ padding: 12px 16px; }}
       #genre-nav a {{ margin: 2px 4px; font-size: 0.7em; }}
 
       table {{ font-size: 0.65em; }}
@@ -319,16 +314,26 @@ def main():
       .artist {{ max-width: 80px; }}
       .album {{ max-width: 90px; }}
       .rank {{ width: 18px; }}
+
+      .clamp {{
+        white-space: normal;
+        text-overflow: clip;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+      }}
+
+      .stat {{ font-size: 1em; }}
     }}
 
     @media (max-width: 380px) {{
-      header h1 {{ font-size: 1.5em; }}
+      header h1 {{ font-size: 2em; }}
 
       table {{ font-size: 0.58em; }}
       td, thead th {{ padding: 2px 2px; }}
 
-      .artist {{ max-width: 65px; }}
-      .album {{ max-width: 72px; }}
+      .artist {{ max-width: 58px; }}
+      .album {{ max-width: 65px; }}
       .rank {{ width: 16px; }}
     }}
   </style>
