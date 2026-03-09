@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-09T09:12:52.748965",
+  "generated": "2026-03-09T09:48:03.601319",
   "snapshot": "2/26",
   "total_unique": 817,
   "total_entries": 820,
@@ -2216,7 +2216,7 @@
     },
     {
       "name": "Brazil",
-      "count": 25,
+      "count": 26,
       "releases": [
         {
           "artist": "Minas",
@@ -2436,6 +2436,16 @@
           "want": 524,
           "power_rank": 16.969271523178808,
           "link": "https://www.discogs.com/release/4275856-Paulo-Diniz-Paulo-Diniz",
+          "sub_genre": "Brazil"
+        },
+        {
+          "artist": "Rosa Maria",
+          "title": "Uma Rosa Com Bossa",
+          "rating": 4.82,
+          "have": 89,
+          "want": 260,
+          "power_rank": 14.080898876404495,
+          "link": "https://www.discogs.com/release/4605915-Rosa-Maria-Uma-Rosa-Com-Bossa",
           "sub_genre": "Brazil"
         },
         {
@@ -3264,7 +3274,7 @@
     },
     {
       "name": "Jazz",
-      "count": 186,
+      "count": 185,
       "releases": [
         {
           "artist": "Rhythm and Art",
@@ -4635,16 +4645,6 @@
           "power_rank": 14.43,
           "link": "https://www.discogs.com/release/6370720-Hank-Mobley-Quintet",
           "sub_genre": "Jazz"
-        },
-        {
-          "artist": "Rosa Maria",
-          "title": "Uma Rosa Com Bossa",
-          "rating": 4.82,
-          "have": 89,
-          "want": 260,
-          "power_rank": 14.080898876404495,
-          "link": "https://www.discogs.com/release/4605915-Rosa-Maria-Uma-Rosa-Com-Bossa",
-          "sub_genre": "Bossa"
         },
         {
           "artist": "Michael Garrick",
