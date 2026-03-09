@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-08T10:27:19.601787",
+  "generated": "2026-03-09T09:12:52.748965",
   "snapshot": "2/26",
-  "total_unique": 810,
-  "total_entries": 813,
+  "total_unique": 817,
+  "total_entries": 820,
   "genres": [
     {
       "name": "African",
@@ -2216,7 +2216,7 @@
     },
     {
       "name": "Brazil",
-      "count": 24,
+      "count": 25,
       "releases": [
         {
           "artist": "Minas",
@@ -2439,6 +2439,16 @@
           "sub_genre": "Brazil"
         },
         {
+          "artist": "Djavan",
+          "title": "Djavan",
+          "rating": 4.7,
+          "have": 543,
+          "want": 1574,
+          "power_rank": 13.623941068139963,
+          "link": "https://www.discogs.com/release/1017241-Djavan-Djavan",
+          "sub_genre": "Brazil"
+        },
+        {
           "artist": "Dominguinhos",
           "title": "Domingo, Menino Dominguinhos",
           "rating": 4.86,
@@ -2462,7 +2472,7 @@
     },
     {
       "name": "Folk",
-      "count": 17,
+      "count": 18,
       "releases": [
         {
           "artist": "John Villemonte",
@@ -2582,6 +2592,16 @@
           "want": 1111,
           "power_rank": 19.916707317073172,
           "link": "https://www.discogs.com/release/1091856-Kaleidoscope-Faintly-Blowing",
+          "sub_genre": "Folk"
+        },
+        {
+          "artist": "Zafer Dilek",
+          "title": "Zafer Dilek",
+          "rating": 4.94,
+          "have": 119,
+          "want": 474,
+          "power_rank": 19.676974789915967,
+          "link": "https://www.discogs.com/release/4708897-Zafer-Dilek-Zafer-Dilek",
           "sub_genre": "Folk"
         },
         {
@@ -3131,6 +3151,16 @@
           "sub_genre": "Funk"
         },
         {
+          "artist": "Various",
+          "title": "Party Time Disco Hits",
+          "rating": 5.0,
+          "have": 5,
+          "want": 30,
+          "power_rank": 30.0,
+          "link": "missing",
+          "sub_genre": "Funk"
+        },
+        {
           "artist": "Nazan Soray",
           "title": "Teselliye Sen Gerek",
           "rating": 4.84,
@@ -3229,22 +3259,12 @@
           "power_rank": 12.556908344733243,
           "link": "https://www.discogs.com/release/1066493-Sunbear-Sunbear",
           "sub_genre": "Funk"
-        },
-        {
-          "artist": "Various",
-          "title": "Party Time Disco Hits",
-          "rating": null,
-          "have": null,
-          "want": null,
-          "power_rank": null,
-          "link": "missing",
-          "sub_genre": "Funk"
         }
       ]
     },
     {
       "name": "Jazz",
-      "count": 183,
+      "count": 186,
       "releases": [
         {
           "artist": "Rhythm and Art",
@@ -4617,6 +4637,16 @@
           "sub_genre": "Jazz"
         },
         {
+          "artist": "Rosa Maria",
+          "title": "Uma Rosa Com Bossa",
+          "rating": 4.82,
+          "have": 89,
+          "want": 260,
+          "power_rank": 14.080898876404495,
+          "link": "https://www.discogs.com/release/4605915-Rosa-Maria-Uma-Rosa-Com-Bossa",
+          "sub_genre": "Bossa"
+        },
+        {
           "artist": "Michael Garrick",
           "title": "October Woman",
           "rating": 4.75,
@@ -4977,6 +5007,16 @@
           "sub_genre": "Jazz"
         },
         {
+          "artist": "John Wright",
+          "title": "Makin' Out Mono",
+          "rating": 4.78,
+          "have": 108,
+          "want": 199,
+          "power_rank": 8.807592592592593,
+          "link": "https://www.discogs.com/release/4180545-John-Wright-Makin-Out",
+          "sub_genre": "Jazz"
+        },
+        {
           "artist": "Konstrukt & Keiji Haino",
           "title": "A Philosophy Warping",
           "rating": 4.86,
@@ -5057,6 +5097,16 @@
           "sub_genre": "Jazz"
         },
         {
+          "artist": "Eddie Henderson",
+          "title": "Realization",
+          "rating": 4.69,
+          "have": 924,
+          "want": 1186,
+          "power_rank": 6.0198484848484854,
+          "link": "https://www.discogs.com/release/457335-Eddie-Henderson-Realization",
+          "sub_genre": "Jazz"
+        },
+        {
           "artist": "Sonny Rollins",
           "title": "Newk's Time Stereo RP BN",
           "rating": 4.81,
@@ -5080,7 +5130,7 @@
     },
     {
       "name": "Soul",
-      "count": 39,
+      "count": 40,
       "releases": [
         {
           "artist": "Dido",
@@ -5470,6 +5520,16 @@
           "want": 442,
           "power_rank": 8.76694214876033,
           "link": "https://www.discogs.com/release/884151-Sandra-Wright-Wounded-Woman",
+          "sub_genre": "Soul"
+        },
+        {
+          "artist": "Norah Jones",
+          "title": "Feels like Home AP",
+          "rating": 4.64,
+          "have": 433,
+          "want": 516,
+          "power_rank": 5.529422632794457,
+          "link": "https://www.discogs.com/release/3963387-Norah-Jones-Feels-Like-Home",
           "sub_genre": "Soul"
         }
       ]
@@ -6138,7 +6198,7 @@
     },
     {
       "name": "Reggae",
-      "count": 31,
+      "count": 32,
       "releases": [
         {
           "artist": "Eddie Hooper",
@@ -6379,6 +6439,16 @@
           "power_rank": 20.428915662650603,
           "link": "https://www.discogs.com/release/749557-Cartel-Cartel",
           "sub_genre": "Hip Hop"
+        },
+        {
+          "artist": "Motion",
+          "title": "Motion",
+          "rating": 4.85,
+          "have": 190,
+          "want": 764,
+          "power_rank": 19.502105263157894,
+          "link": "https://www.discogs.com/release/1696669-Motion-Motion",
+          "sub_genre": "Reggae"
         },
         {
           "artist": "Scientist",
