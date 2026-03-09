@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-09T09:48:03.601319",
+  "generated": "2026-03-09T10:59:12.390246",
   "snapshot": "2/26",
-  "total_unique": 817,
-  "total_entries": 820,
+  "total_unique": 818,
+  "total_entries": 821,
   "genres": [
     {
       "name": "African",
@@ -7680,7 +7680,7 @@
     },
     {
       "name": "Jazz Funk",
-      "count": 35,
+      "count": 36,
       "releases": [
         {
           "artist": "Admas",
@@ -8000,6 +8000,16 @@
           "want": 168,
           "power_rank": 20.027368421052635,
           "link": "https://www.discogs.com/release/5660188-Various-Production-Music",
+          "sub_genre": "Jazz Funk"
+        },
+        {
+          "artist": "Cesar Mariano",
+          "title": "Sao Paulo Brasil",
+          "rating": 4.76,
+          "have": 414,
+          "want": 1710,
+          "power_rank": 19.66086956521739,
+          "link": "https://www.discogs.com/release/1189268-Cesar-Mariano-Cia-S%C3%A3o-Paulo-Brasil",
           "sub_genre": "Jazz Funk"
         },
         {
