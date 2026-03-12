@@ -1,12 +1,12 @@
 {
-  "generated": "2026-03-09T10:59:12.390246",
+  "generated": "2026-03-11T21:57:28.122605",
   "snapshot": "2/26",
-  "total_unique": 818,
-  "total_entries": 821,
+  "total_unique": 830,
+  "total_entries": 833,
   "genres": [
     {
       "name": "African",
-      "count": 47,
+      "count": 50,
       "releases": [
         {
           "artist": "Zotobres",
@@ -146,6 +146,16 @@
           "want": 1302,
           "power_rank": 38.732452830188684,
           "link": "https://www.discogs.com/release/2950831-Orchestre-Du-Bawobab-Visage-Du-Senegaal",
+          "sub_genre": "African"
+        },
+        {
+          "artist": "Bertrand Mialet",
+          "title": "Vol 2 Tsomo",
+          "rating": 4.82,
+          "have": 33,
+          "want": 265,
+          "power_rank": 38.70606060606061,
+          "link": "https://www.discogs.com/release/2822909-Bertrand-Mialet-Vol2-Ts%C3%B5m%C3%B5-Messages",
           "sub_genre": "African"
         },
         {
@@ -419,6 +429,16 @@
           "sub_genre": "African"
         },
         {
+          "artist": "Orchestre Baobab",
+          "title": "Paris Vol 2",
+          "rating": 4.5,
+          "have": 80,
+          "want": 308,
+          "power_rank": 17.325,
+          "link": "https://www.discogs.com/release/2328779-Abou-Sylla-Et-Baobab-Baobab-Paris-Africa-78-Vol-2",
+          "sub_genre": "African"
+        },
+        {
           "artist": "Etoile De Dakar",
           "title": "Xalis",
           "rating": 4.67,
@@ -466,6 +486,16 @@
           "want": 265,
           "power_rank": 13.701063829787234,
           "link": "https://www.discogs.com/release/2170178-Le-Nimba-De-NZerekore-G%C3%B6n-Bia-Bia",
+          "sub_genre": "African"
+        },
+        {
+          "artist": "Poly-Rythmo",
+          "title": "Vol 7",
+          "rating": 4.83,
+          "have": 136,
+          "want": 380,
+          "power_rank": 13.495588235294116,
+          "link": "https://www.discogs.com/release/2769081-TP-Orchestre-Poly-Rythmo-De-Cotonou-Benin-Vol-7-TP-Orchestre-Poly-Rhythmo-De-Cotonou-Benin-Avec-Zoun",
           "sub_genre": "African"
         },
         {
@@ -2668,7 +2698,7 @@
     },
     {
       "name": "Funk",
-      "count": 60,
+      "count": 61,
       "releases": [
         {
           "artist": "Popcorn",
@@ -2778,6 +2808,16 @@
           "want": 1061,
           "power_rank": 72.73231884057972,
           "link": "https://www.discogs.com/release/5279960-Margino-Happy-People",
+          "sub_genre": "Funk"
+        },
+        {
+          "artist": "Amadou Doukoure",
+          "title": "Mansany US",
+          "rating": 4.8,
+          "have": 24,
+          "want": 355,
+          "power_rank": 71.0,
+          "link": "https://www.discogs.com/release/12909304-Amadou-Doukoure-Abdoulaye-Soumare-Mansany",
           "sub_genre": "Funk"
         },
         {
@@ -3274,7 +3314,7 @@
     },
     {
       "name": "Jazz",
-      "count": 185,
+      "count": 188,
       "releases": [
         {
           "artist": "Rhythm and Art",
@@ -4587,6 +4627,16 @@
           "sub_genre": "Jazz"
         },
         {
+          "artist": "Kamal Abdul Alim",
+          "title": "Dance",
+          "rating": 4.84,
+          "have": 327,
+          "want": 999,
+          "power_rank": 14.786422018348624,
+          "link": "https://www.discogs.com/release/2168511-Kamal-Abdul-Alim-Dance",
+          "sub_genre": "Afro Jazz"
+        },
+        {
           "artist": "Takeshi Inomata",
           "title": "Liner Note",
           "rating": 5.0,
@@ -4967,6 +5017,16 @@
           "sub_genre": "Jazz"
         },
         {
+          "artist": "Konstrukt",
+          "title": "Brotzman Ertunc",
+          "rating": 4.9,
+          "have": 41,
+          "want": 82,
+          "power_rank": 9.8,
+          "link": "https://www.discogs.com/release/8769571-Konstrukt-feat-Peter-Br%C3%B6tzmann-H%C3%BCseyin-Ertun%C3%A7-Do%C4%9Fan-Do%C4%9Fusel-Barlas-Tan-%C3%96zemek-Eklisia-Sunday",
+          "sub_genre": "Jazz"
+        },
+        {
           "artist": "Sam Rivers",
           "title": "Contours Mono RVG BN",
           "rating": 4.56,
@@ -4974,6 +5034,16 @@
           "want": 636,
           "power_rank": 9.571485148514851,
           "link": "https://www.discogs.com/release/3400188-Sam-Rivers-Contours",
+          "sub_genre": "Jazz"
+        },
+        {
+          "artist": "Gene Rains",
+          "title": "Lotus Land",
+          "rating": 4.77,
+          "have": 150,
+          "want": 294,
+          "power_rank": 9.3492,
+          "link": "https://www.discogs.com/release/3604458-Gene-Rains-And-His-Group-Lotus-Land",
           "sub_genre": "Jazz"
         },
         {
@@ -5842,7 +5912,7 @@
     },
     {
       "name": "Metal",
-      "count": 35,
+      "count": 36,
       "releases": [
         {
           "artist": "Slauter Xstroyes",
@@ -6175,6 +6245,16 @@
           "sub_genre": "Metal"
         },
         {
+          "artist": "Gride",
+          "title": "Zaskuby Chaosu",
+          "rating": 4.78,
+          "have": 49,
+          "want": 53,
+          "power_rank": 5.1702040816326535,
+          "link": "https://www.discogs.com/release/2996665-Gride-Z%C3%A1%C5%A1kuby-Chaosu",
+          "sub_genre": "Metal"
+        },
+        {
           "artist": "Corrupted",
           "title": "La Victima Es Tu Mismo JP",
           "rating": 4.82,
@@ -6198,7 +6278,7 @@
     },
     {
       "name": "Reggae",
-      "count": 32,
+      "count": 34,
       "releases": [
         {
           "artist": "Eddie Hooper",
@@ -6268,6 +6348,26 @@
           "want": 313,
           "power_rank": 46.096363636363634,
           "link": "https://www.discogs.com/release/3490035-General-Plough-Showcase",
+          "sub_genre": "Reggae"
+        },
+        {
+          "artist": "Cornell Campbell",
+          "title": "The Gorgon",
+          "rating": 5.0,
+          "have": 44,
+          "want": 401,
+          "power_rank": 45.56818181818181,
+          "link": "https://www.discogs.com/release/3287408-Cornel-Campbell-The-Gorgon",
+          "sub_genre": "Reggae"
+        },
+        {
+          "artist": "Derrick Harriot",
+          "title": "Float On",
+          "rating": 4.81,
+          "have": 42,
+          "want": 397,
+          "power_rank": 45.46595238095238,
+          "link": "https://www.discogs.com/release/4633954-Derrick-Harriot-Float-On",
           "sub_genre": "Reggae"
         },
         {
@@ -6524,7 +6624,7 @@
     },
     {
       "name": "Rock",
-      "count": 115,
+      "count": 116,
       "releases": [
         {
           "artist": "Led Zeppelin",
@@ -7567,6 +7667,16 @@
           "sub_genre": "Rock NW"
         },
         {
+          "artist": "Del Shannon",
+          "title": "Further Adventures",
+          "rating": 4.65,
+          "have": 283,
+          "want": 597,
+          "power_rank": 9.809363957597173,
+          "link": "https://www.discogs.com/release/4229660-Del-Shannon-The-Further-Adventures-Of-Charles-Westover",
+          "sub_genre": "Rock"
+        },
+        {
           "artist": "Tarkus",
           "title": "Tarkus RP",
           "rating": 4.82,
@@ -7680,7 +7790,7 @@
     },
     {
       "name": "Jazz Funk",
-      "count": 36,
+      "count": 37,
       "releases": [
         {
           "artist": "Admas",
@@ -8040,6 +8150,16 @@
           "want": 200,
           "power_rank": 12.210526315789474,
           "link": "https://www.discogs.com/release/2872581-Various-Sounds-80",
+          "sub_genre": "Jazz Funk"
+        },
+        {
+          "artist": "Jazz Celula",
+          "title": "Ohen Az Pozar",
+          "rating": 4.79,
+          "have": 220,
+          "want": 434,
+          "power_rank": 9.449363636363636,
+          "link": "https://www.discogs.com/release/1940455-Jazz-Celula-Ohe%C5%88-A%C5%BE-Po%C5%BE%C3%A1r",
           "sub_genre": "Jazz Funk"
         }
       ]
